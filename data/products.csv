@@ -1,0 +1,25 @@
+product_id,product_name,category,list_price,unit_cost
+P001,Desk lamp,Home,12,5.25
+P002,Linen throw,Home,32,16.52
+P003,Ceramic vase,Home,89,38.88
+P004,Storage basket,Home,32,18.13
+P005,Wall clock,Home,32,16.11
+P006,Cushion,Home,12,4.68
+P007,Coffee grinder,Kitchen,18,8.81
+P008,Glass carafe,Kitchen,18,8.24
+P009,Bowl set,Kitchen,48,22.95
+P010,Cutting board,Kitchen,48,25.43
+P011,Tea pot,Kitchen,32,21.73
+P012,Lunch box,Kitchen,48,22.36
+P013,Canvas tote,Accessories,64,32.33
+P014,Travel pouch,Accessories,24,10.57
+P015,Card holder,Accessories,12,7.09
+P016,Wool scarf,Accessories,24,9.56
+P017,Umbrella,Accessories,48,31.89
+P018,Key ring,Accessories,64,26.83
+P019,Weekly planner,Stationery,18,10.73
+P020,Notebook,Stationery,24,14.2
+P021,Pen set,Stationery,89,46.98
+P022,Desk tray,Stationery,24,16.17
+P023,Pencil case,Stationery,89,37.57
+P024,Bookmark set,Stationery,18,8.56

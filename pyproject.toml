@@ -1,0 +1,9 @@
+[project]
+name = "e-commerce-sales-analysis"
+version = "1.0.0"
+description = "Sales, product margins and repeat purchasing in a reproducible retail dataset."
+requires-python = ">=3.11,<3.14"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

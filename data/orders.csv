@@ -1,0 +1,2401 @@
+order_id,customer_id,order_date,channel,status
+O00001,C0111,2025-05-23,Organic,cancelled
+O00002,C0078,2025-05-16,Organic,delivered
+O00003,C0021,2025-05-08,Email,delivered
+O00004,C0018,2025-09-24,Email,delivered
+O00005,C0072,2025-02-01,Email,delivered
+O00006,C0041,2025-07-22,Organic,delivered
+O00007,C0030,2025-03-02,Organic,delivered
+O00008,C0077,2025-08-16,Paid search,returned
+O00009,C0600,2025-09-01,Email,delivered
+O00010,C0597,2025-12-06,Paid search,delivered
+O00011,C0056,2025-01-03,Organic,cancelled
+O00012,C0073,2025-11-15,Organic,delivered
+O00013,C0085,2025-07-23,Organic,delivered
+O00014,C0027,2025-02-27,Social,delivered
+O00015,C0334,2025-12-17,Organic,delivered
+O00016,C0116,2025-11-15,Organic,delivered
+O00017,C0008,2025-11-14,Email,delivered
+O00018,C0018,2025-12-15,Social,delivered
+O00019,C0060,2025-11-09,Email,delivered
+O00020,C0517,2025-04-22,Social,delivered
+O00021,C0279,2025-02-06,Social,delivered
+O00022,C0268,2025-11-20,Paid search,delivered
+O00023,C0082,2025-01-26,Organic,delivered
+O00024,C0044,2025-12-23,Email,delivered
+O00025,C0593,2025-06-10,Organic,cancelled
+O00026,C0425,2025-09-16,Social,delivered
+O00027,C0307,2025-04-25,Paid search,delivered
+O00028,C0058,2025-02-10,Paid search,delivered
+O00029,C0082,2025-05-04,Organic,delivered
+O00030,C0136,2025-12-26,Organic,delivered
+O00031,C0067,2025-10-19,Paid search,delivered
+O00032,C0416,2025-10-21,Social,delivered
+O00033,C0018,2025-12-04,Social,delivered
+O00034,C0018,2025-12-21,Paid search,delivered
+O00035,C0567,2025-06-07,Social,delivered
+O00036,C0059,2025-01-26,Social,delivered
+O00037,C0364,2025-11-11,Email,delivered
+O00038,C0245,2025-11-04,Organic,delivered
+O00039,C0090,2025-07-12,Organic,delivered
+O00040,C0299,2025-10-16,Paid search,returned
+O00041,C0298,2025-10-18,Paid search,delivered
+O00042,C0238,2025-10-28,Email,delivered
+O00043,C0272,2025-04-05,Paid search,delivered
+O00044,C0011,2025-11-18,Social,delivered
+O00045,C0181,2025-01-10,Organic,delivered
+O00046,C0065,2025-06-18,Email,delivered
+O00047,C0518,2025-10-10,Organic,delivered
+O00048,C0017,2025-10-01,Paid search,delivered
+O00049,C0028,2025-12-05,Paid search,delivered
+O00050,C0343,2025-07-07,Organic,delivered
+O00051,C0070,2025-05-08,Paid search,delivered
+O00052,C0002,2025-05-04,Email,delivered
+O00053,C0013,2025-10-12,Email,delivered
+O00054,C0223,2025-09-23,Organic,delivered
+O00055,C0369,2025-05-11,Organic,delivered
+O00056,C0035,2025-02-09,Paid search,delivered
+O00057,C0226,2025-12-19,Social,delivered
+O00058,C0014,2025-06-10,Email,delivered
+O00059,C0151,2025-07-26,Organic,delivered
+O00060,C0007,2025-08-06,Email,cancelled
+O00061,C0379,2025-10-02,Paid search,delivered
+O00062,C0467,2025-11-20,Organic,delivered
+O00063,C0175,2025-10-05,Social,delivered
+O00064,C0598,2025-11-24,Social,delivered
+O00065,C0040,2025-11-07,Organic,delivered
+O00066,C0032,2025-06-06,Email,delivered
+O00067,C0042,2025-07-18,Social,delivered
+O00068,C0035,2025-12-27,Paid search,returned
+O00069,C0092,2025-02-28,Organic,delivered
+O00070,C0408,2025-07-08,Social,returned
+O00071,C0040,2025-12-12,Organic,delivered
+O00072,C0083,2025-03-23,Paid search,returned
+O00073,C0075,2025-11-17,Email,delivered
+O00074,C0429,2025-07-04,Paid search,delivered
+O00075,C0248,2025-09-06,Organic,cancelled
+O00076,C0069,2025-08-01,Paid search,delivered
+O00077,C0225,2025-09-27,Email,delivered
+O00078,C0121,2025-08-27,Organic,delivered
+O00079,C0022,2025-10-09,Organic,returned
+O00080,C0015,2025-08-26,Paid search,delivered
+O00081,C0196,2025-11-12,Paid search,delivered
+O00082,C0077,2025-09-26,Organic,delivered
+O00083,C0352,2025-06-15,Paid search,delivered
+O00084,C0088,2025-01-06,Paid search,delivered
+O00085,C0513,2025-09-23,Paid search,delivered
+O00086,C0051,2025-02-18,Organic,delivered
+O00087,C0380,2025-11-08,Organic,delivered
+O00088,C0600,2025-02-13,Email,delivered
+O00089,C0472,2025-08-05,Email,delivered
+O00090,C0095,2025-01-04,Organic,delivered
+O00091,C0017,2025-05-18,Paid search,delivered
+O00092,C0005,2025-01-28,Organic,delivered
+O00093,C0225,2025-10-10,Organic,delivered
+O00094,C0056,2025-05-23,Social,delivered
+O00095,C0047,2025-04-04,Organic,delivered
+O00096,C0405,2025-12-06,Social,delivered
+O00097,C0088,2025-08-10,Organic,delivered
+O00098,C0083,2025-11-22,Paid search,delivered
+O00099,C0009,2025-06-13,Paid search,delivered
+O00100,C0265,2025-05-20,Organic,cancelled
+O00101,C0090,2025-03-20,Paid search,delivered
+O00102,C0025,2025-03-17,Social,delivered
+O00103,C0090,2025-05-27,Paid search,delivered
+O00104,C0273,2025-12-28,Organic,delivered
+O00105,C0034,2025-12-04,Paid search,delivered
+O00106,C0441,2025-12-28,Email,delivered
+O00107,C0060,2025-07-18,Organic,delivered
+O00108,C0360,2025-05-10,Email,delivered
+O00109,C0067,2025-09-18,Social,delivered
+O00110,C0197,2025-05-04,Paid search,delivered
+O00111,C0025,2025-02-25,Social,cancelled
+O00112,C0344,2025-08-07,Organic,delivered
+O00113,C0534,2025-11-28,Social,delivered
+O00114,C0019,2025-05-20,Social,delivered
+O00115,C0052,2025-11-26,Email,delivered
+O00116,C0084,2025-03-05,Social,delivered
+O00117,C0152,2025-05-24,Organic,delivered
+O00118,C0520,2025-07-17,Social,delivered
+O00119,C0066,2025-07-20,Email,returned
+O00120,C0289,2025-08-17,Organic,delivered
+O00121,C0058,2025-08-06,Paid search,delivered
+O00122,C0080,2025-07-02,Paid search,delivered
+O00123,C0408,2025-01-09,Email,delivered
+O00124,C0586,2025-01-03,Paid search,delivered
+O00125,C0066,2025-10-14,Social,delivered
+O00126,C0315,2025-06-05,Organic,delivered
+O00127,C0415,2025-07-13,Organic,delivered
+O00128,C0355,2025-10-20,Social,delivered
+O00129,C0009,2025-10-28,Email,delivered
+O00130,C0041,2025-03-10,Social,delivered
+O00131,C0011,2025-07-09,Social,returned
+O00132,C0027,2025-10-14,Paid search,delivered
+O00133,C0136,2025-07-14,Organic,delivered
+O00134,C0311,2025-06-18,Organic,delivered
+O00135,C0037,2025-09-16,Social,delivered
+O00136,C0365,2025-04-11,Paid search,delivered
+O00137,C0581,2025-07-26,Paid search,delivered
+O00138,C0027,2025-10-10,Organic,delivered
+O00139,C0385,2025-07-24,Organic,delivered
+O00140,C0353,2025-11-02,Paid search,delivered
+O00141,C0199,2025-07-02,Paid search,delivered
+O00142,C0003,2025-05-10,Email,delivered
+O00143,C0081,2025-06-13,Organic,delivered
+O00144,C0071,2025-11-03,Paid search,delivered
+O00145,C0490,2025-12-04,Social,delivered
+O00146,C0056,2025-03-28,Social,delivered
+O00147,C0492,2025-11-22,Organic,delivered
+O00148,C0018,2025-12-02,Organic,delivered
+O00149,C0063,2025-07-08,Social,delivered
+O00150,C0067,2025-02-05,Email,delivered
+O00151,C0350,2025-05-12,Organic,delivered
+O00152,C0132,2025-01-12,Paid search,delivered
+O00153,C0030,2025-03-13,Organic,delivered
+O00154,C0064,2025-08-03,Social,delivered
+O00155,C0395,2025-11-13,Organic,delivered
+O00156,C0280,2025-05-24,Paid search,delivered
+O00157,C0035,2025-06-19,Social,delivered
+O00158,C0441,2025-10-27,Email,delivered
+O00159,C0066,2025-10-26,Paid search,delivered
+O00160,C0491,2025-12-23,Paid search,delivered
+O00161,C0142,2025-10-02,Paid search,delivered
+O00162,C0088,2025-10-23,Organic,delivered
+O00163,C0025,2025-11-24,Organic,delivered
+O00164,C0056,2025-11-15,Organic,delivered
+O00165,C0043,2025-03-24,Organic,delivered
+O00166,C0195,2025-06-24,Organic,delivered
+O00167,C0011,2025-10-26,Organic,returned
+O00168,C0105,2025-10-16,Paid search,delivered
+O00169,C0515,2025-10-10,Paid search,delivered
+O00170,C0068,2025-10-17,Paid search,delivered
+O00171,C0133,2025-10-06,Paid search,delivered
+O00172,C0024,2025-12-16,Email,cancelled
+O00173,C0386,2025-02-01,Organic,delivered
+O00174,C0087,2025-11-25,Paid search,delivered
+O00175,C0349,2025-11-02,Paid search,delivered
+O00176,C0079,2025-05-02,Organic,delivered
+O00177,C0274,2025-11-19,Email,delivered
+O00178,C0149,2025-04-02,Paid search,delivered
+O00179,C0585,2025-12-17,Email,delivered
+O00180,C0210,2025-09-09,Paid search,delivered
+O00181,C0320,2025-11-28,Email,delivered
+O00182,C0420,2025-08-11,Organic,delivered
+O00183,C0022,2025-11-01,Email,delivered
+O00184,C0053,2025-03-21,Email,returned
+O00185,C0010,2025-12-06,Paid search,delivered
+O00186,C0264,2025-09-17,Organic,delivered
+O00187,C0363,2025-05-13,Email,delivered
+O00188,C0492,2025-11-03,Organic,delivered
+O00189,C0308,2025-09-20,Organic,returned
+O00190,C0336,2025-09-07,Organic,delivered
+O00191,C0068,2025-12-05,Email,delivered
+O00192,C0519,2025-04-02,Social,delivered
+O00193,C0223,2025-10-03,Paid search,delivered
+O00194,C0058,2025-11-18,Paid search,delivered
+O00195,C0021,2025-04-14,Paid search,delivered
+O00196,C0100,2025-08-12,Email,delivered
+O00197,C0361,2025-11-04,Organic,delivered
+O00198,C0080,2025-10-16,Organic,delivered
+O00199,C0001,2025-04-17,Email,delivered
+O00200,C0007,2025-12-28,Email,delivered
+O00201,C0088,2025-09-04,Social,delivered
+O00202,C0142,2025-06-10,Organic,delivered
+O00203,C0002,2025-11-05,Paid search,delivered
+O00204,C0066,2025-01-22,Email,delivered
+O00205,C0298,2025-12-05,Organic,returned
+O00206,C0147,2025-06-19,Paid search,cancelled
+O00207,C0323,2025-06-27,Organic,delivered
+O00208,C0029,2025-02-04,Paid search,delivered
+O00209,C0290,2025-10-27,Paid search,delivered
+O00210,C0448,2025-01-13,Paid search,delivered
+O00211,C0371,2025-01-27,Organic,delivered
+O00212,C0514,2025-09-09,Organic,cancelled
+O00213,C0400,2025-12-27,Organic,returned
+O00214,C0268,2025-08-13,Organic,delivered
+O00215,C0044,2025-09-20,Organic,delivered
+O00216,C0594,2025-08-21,Paid search,delivered
+O00217,C0088,2025-08-19,Paid search,delivered
+O00218,C0592,2025-05-26,Paid search,delivered
+O00219,C0592,2025-06-27,Organic,delivered
+O00220,C0062,2025-01-23,Paid search,delivered
+O00221,C0036,2025-05-20,Organic,delivered
+O00222,C0540,2025-02-23,Paid search,delivered
+O00223,C0559,2025-07-21,Paid search,delivered
+O00224,C0594,2025-09-28,Social,delivered
+O00225,C0582,2025-02-12,Organic,returned
+O00226,C0047,2025-05-01,Organic,delivered
+O00227,C0568,2025-07-14,Social,delivered
+O00228,C0234,2025-11-19,Email,delivered
+O00229,C0060,2025-12-03,Social,delivered
+O00230,C0006,2025-12-23,Social,delivered
+O00231,C0042,2025-10-10,Organic,delivered
+O00232,C0052,2025-04-21,Organic,delivered
+O00233,C0122,2025-04-21,Organic,returned
+O00234,C0047,2025-04-27,Organic,delivered
+O00235,C0068,2025-09-27,Paid search,cancelled
+O00236,C0150,2025-10-17,Paid search,delivered
+O00237,C0426,2025-11-05,Organic,returned
+O00238,C0371,2025-10-17,Organic,delivered
+O00239,C0472,2025-08-12,Organic,delivered
+O00240,C0485,2025-06-13,Organic,delivered
+O00241,C0270,2025-08-23,Social,delivered
+O00242,C0186,2025-04-14,Organic,delivered
+O00243,C0370,2025-08-05,Paid search,delivered
+O00244,C0290,2025-07-12,Organic,delivered
+O00245,C0167,2025-12-16,Organic,delivered
+O00246,C0037,2025-10-22,Paid search,delivered
+O00247,C0225,2025-05-23,Paid search,delivered
+O00248,C0070,2025-08-20,Organic,delivered
+O00249,C0223,2025-02-09,Email,delivered
+O00250,C0181,2025-11-26,Paid search,delivered
+O00251,C0595,2025-01-23,Email,delivered
+O00252,C0433,2025-05-06,Email,delivered
+O00253,C0545,2025-09-06,Social,delivered
+O00254,C0066,2025-11-11,Paid search,delivered
+O00255,C0083,2025-12-03,Organic,delivered
+O00256,C0488,2025-06-19,Social,delivered
+O00257,C0353,2025-11-19,Paid search,delivered
+O00258,C0068,2025-07-16,Organic,delivered
+O00259,C0261,2025-08-01,Paid search,delivered
+O00260,C0546,2025-11-10,Paid search,delivered
+O00261,C0071,2025-03-26,Organic,delivered
+O00262,C0234,2025-02-23,Organic,returned
+O00263,C0237,2025-01-04,Organic,delivered
+O00264,C0280,2025-10-07,Paid search,delivered
+O00265,C0199,2025-02-24,Organic,delivered
+O00266,C0007,2025-07-06,Paid search,delivered
+O00267,C0310,2025-11-03,Organic,delivered
+O00268,C0007,2025-11-28,Organic,delivered
+O00269,C0445,2025-12-01,Paid search,delivered
+O00270,C0406,2025-11-12,Organic,delivered
+O00271,C0085,2025-07-19,Paid search,delivered
+O00272,C0020,2025-03-16,Paid search,delivered
+O00273,C0156,2025-08-24,Paid search,cancelled
+O00274,C0247,2025-04-12,Paid search,delivered
+O00275,C0058,2025-08-08,Organic,delivered
+O00276,C0021,2025-08-11,Paid search,delivered
+O00277,C0185,2025-11-26,Paid search,delivered
+O00278,C0059,2025-04-15,Email,delivered
+O00279,C0563,2025-06-21,Organic,delivered
+O00280,C0033,2025-04-07,Social,delivered
+O00281,C0361,2025-10-04,Paid search,delivered
+O00282,C0023,2025-03-27,Paid search,delivered
+O00283,C0025,2025-07-05,Paid search,returned
+O00284,C0301,2025-04-20,Email,returned
+O00285,C0219,2025-08-23,Email,delivered
+O00286,C0399,2025-12-14,Paid search,delivered
+O00287,C0268,2025-11-10,Organic,delivered
+O00288,C0042,2025-10-13,Email,delivered
+O00289,C0575,2025-07-26,Organic,delivered
+O00290,C0422,2025-11-15,Social,delivered
+O00291,C0014,2025-07-22,Social,delivered
+O00292,C0439,2025-03-19,Organic,delivered
+O00293,C0374,2025-09-03,Organic,delivered
+O00294,C0017,2025-09-13,Organic,delivered
+O00295,C0597,2025-09-16,Email,cancelled
+O00296,C0043,2025-10-20,Organic,returned
+O00297,C0414,2025-05-17,Paid search,delivered
+O00298,C0546,2025-05-03,Organic,cancelled
+O00299,C0036,2025-07-04,Email,returned
+O00300,C0016,2025-10-02,Organic,delivered
+O00301,C0257,2025-05-13,Paid search,delivered
+O00302,C0053,2025-05-22,Organic,delivered
+O00303,C0024,2025-03-08,Paid search,delivered
+O00304,C0132,2025-10-01,Paid search,delivered
+O00305,C0336,2025-02-07,Social,delivered
+O00306,C0427,2025-03-20,Organic,delivered
+O00307,C0023,2025-12-12,Paid search,delivered
+O00308,C0064,2025-03-19,Organic,delivered
+O00309,C0433,2025-10-09,Organic,delivered
+O00310,C0047,2025-12-07,Social,delivered
+O00311,C0071,2025-11-19,Paid search,returned
+O00312,C0051,2025-09-28,Paid search,delivered
+O00313,C0269,2025-12-20,Email,delivered
+O00314,C0319,2025-12-24,Social,delivered
+O00315,C0083,2025-11-13,Paid search,delivered
+O00316,C0093,2025-12-03,Paid search,returned
+O00317,C0014,2025-07-08,Paid search,delivered
+O00318,C0402,2025-10-14,Email,delivered
+O00319,C0024,2025-09-06,Paid search,returned
+O00320,C0568,2025-12-20,Paid search,returned
+O00321,C0181,2025-04-14,Email,delivered
+O00322,C0177,2025-10-15,Organic,delivered
+O00323,C0418,2025-08-14,Paid search,delivered
+O00324,C0263,2025-12-25,Paid search,delivered
+O00325,C0155,2025-11-23,Paid search,delivered
+O00326,C0157,2025-11-01,Organic,delivered
+O00327,C0075,2025-04-18,Organic,delivered
+O00328,C0157,2025-08-10,Email,delivered
+O00329,C0018,2025-11-06,Paid search,delivered
+O00330,C0016,2025-12-14,Organic,delivered
+O00331,C0544,2025-12-02,Email,delivered
+O00332,C0006,2025-08-07,Paid search,delivered
+O00333,C0016,2025-10-06,Organic,delivered
+O00334,C0422,2025-09-24,Social,delivered
+O00335,C0555,2025-02-17,Email,delivered
+O00336,C0266,2025-12-15,Social,delivered
+O00337,C0554,2025-11-14,Paid search,delivered
+O00338,C0048,2025-04-19,Social,delivered
+O00339,C0019,2025-06-25,Social,delivered
+O00340,C0494,2025-09-16,Social,delivered
+O00341,C0338,2025-05-08,Organic,delivered
+O00342,C0031,2025-11-25,Social,delivered
+O00343,C0033,2025-09-09,Organic,delivered
+O00344,C0018,2025-10-27,Organic,delivered
+O00345,C0396,2025-11-16,Organic,delivered
+O00346,C0212,2025-04-27,Paid search,delivered
+O00347,C0022,2025-06-14,Email,cancelled
+O00348,C0063,2025-12-10,Email,delivered
+O00349,C0074,2025-10-11,Paid search,delivered
+O00350,C0536,2025-07-28,Email,delivered
+O00351,C0030,2025-11-07,Organic,delivered
+O00352,C0055,2025-12-13,Organic,delivered
+O00353,C0082,2025-05-16,Email,returned
+O00354,C0100,2025-12-14,Paid search,delivered
+O00355,C0046,2025-05-14,Organic,delivered
+O00356,C0177,2025-07-10,Email,delivered
+O00357,C0069,2025-10-21,Paid search,delivered
+O00358,C0269,2025-09-23,Organic,delivered
+O00359,C0027,2025-03-01,Social,delivered
+O00360,C0381,2025-06-23,Organic,delivered
+O00361,C0044,2025-06-15,Social,delivered
+O00362,C0211,2025-12-06,Organic,returned
+O00363,C0042,2025-04-04,Paid search,delivered
+O00364,C0044,2025-06-03,Paid search,delivered
+O00365,C0382,2025-03-18,Organic,delivered
+O00366,C0146,2025-10-07,Paid search,delivered
+O00367,C0001,2025-09-15,Paid search,delivered
+O00368,C0308,2025-09-11,Paid search,delivered
+O00369,C0057,2025-03-10,Paid search,delivered
+O00370,C0006,2025-08-04,Paid search,delivered
+O00371,C0239,2025-01-07,Social,delivered
+O00372,C0415,2025-11-02,Organic,delivered
+O00373,C0312,2025-08-04,Paid search,delivered
+O00374,C0156,2025-02-21,Email,delivered
+O00375,C0241,2025-06-11,Paid search,delivered
+O00376,C0523,2025-06-18,Organic,cancelled
+O00377,C0094,2025-05-01,Social,delivered
+O00378,C0414,2025-11-23,Social,delivered
+O00379,C0041,2025-12-08,Email,delivered
+O00380,C0086,2025-11-06,Social,delivered
+O00381,C0077,2025-06-27,Social,delivered
+O00382,C0088,2025-09-11,Organic,delivered
+O00383,C0024,2025-11-05,Organic,delivered
+O00384,C0023,2025-07-23,Organic,delivered
+O00385,C0076,2025-02-25,Email,delivered
+O00386,C0239,2025-05-20,Email,delivered
+O00387,C0035,2025-12-08,Paid search,delivered
+O00388,C0079,2025-11-10,Organic,delivered
+O00389,C0252,2025-03-23,Paid search,returned
+O00390,C0012,2025-07-01,Paid search,delivered
+O00391,C0461,2025-12-16,Paid search,delivered
+O00392,C0332,2025-05-13,Organic,delivered
+O00393,C0011,2025-08-26,Organic,delivered
+O00394,C0152,2025-04-08,Paid search,delivered
+O00395,C0055,2025-04-05,Email,delivered
+O00396,C0136,2025-03-03,Social,delivered
+O00397,C0560,2025-12-14,Organic,delivered
+O00398,C0041,2025-09-20,Organic,delivered
+O00399,C0298,2025-11-16,Paid search,delivered
+O00400,C0039,2025-04-14,Email,delivered
+O00401,C0273,2025-11-16,Email,returned
+O00402,C0193,2025-10-13,Email,delivered
+O00403,C0115,2025-12-17,Social,delivered
+O00404,C0363,2025-07-10,Organic,delivered
+O00405,C0080,2025-07-21,Email,delivered
+O00406,C0044,2025-12-03,Email,returned
+O00407,C0548,2025-12-20,Paid search,delivered
+O00408,C0074,2025-11-02,Organic,delivered
+O00409,C0204,2025-12-01,Organic,delivered
+O00410,C0477,2025-09-08,Organic,delivered
+O00411,C0009,2025-05-03,Paid search,delivered
+O00412,C0064,2025-07-19,Organic,delivered
+O00413,C0052,2025-11-03,Organic,delivered
+O00414,C0020,2025-04-02,Email,delivered
+O00415,C0087,2025-03-19,Email,delivered
+O00416,C0599,2025-04-20,Paid search,delivered
+O00417,C0128,2025-05-17,Email,delivered
+O00418,C0034,2025-01-06,Email,returned
+O00419,C0081,2025-08-11,Email,returned
+O00420,C0004,2025-05-18,Paid search,delivered
+O00421,C0021,2025-06-20,Email,delivered
+O00422,C0066,2025-05-04,Organic,delivered
+O00423,C0060,2025-08-07,Paid search,returned
+O00424,C0261,2025-11-17,Organic,delivered
+O00425,C0082,2025-11-11,Organic,delivered
+O00426,C0109,2025-03-09,Email,delivered
+O00427,C0018,2025-10-17,Paid search,delivered
+O00428,C0194,2025-03-10,Organic,delivered
+O00429,C0075,2025-06-03,Organic,delivered
+O00430,C0014,2025-10-18,Social,delivered
+O00431,C0545,2025-07-08,Organic,returned
+O00432,C0454,2025-10-26,Organic,delivered
+O00433,C0062,2025-03-25,Paid search,delivered
+O00434,C0053,2025-10-26,Paid search,delivered
+O00435,C0037,2025-06-11,Email,delivered
+O00436,C0078,2025-09-27,Organic,delivered
+O00437,C0025,2025-02-27,Paid search,delivered
+O00438,C0054,2025-09-22,Social,delivered
+O00439,C0020,2025-09-12,Organic,delivered
+O00440,C0077,2025-06-13,Organic,delivered
+O00441,C0051,2025-11-05,Email,delivered
+O00442,C0574,2025-08-14,Organic,delivered
+O00443,C0185,2025-04-14,Paid search,delivered
+O00444,C0578,2025-09-02,Paid search,delivered
+O00445,C0583,2025-11-17,Social,delivered
+O00446,C0269,2025-12-03,Paid search,delivered
+O00447,C0062,2025-11-14,Social,delivered
+O00448,C0046,2025-11-19,Paid search,delivered
+O00449,C0373,2025-08-28,Organic,delivered
+O00450,C0326,2025-03-19,Paid search,delivered
+O00451,C0060,2025-08-02,Organic,delivered
+O00452,C0047,2025-06-21,Email,delivered
+O00453,C0084,2025-10-13,Organic,returned
+O00454,C0018,2025-08-02,Paid search,delivered
+O00455,C0256,2025-11-24,Email,delivered
+O00456,C0270,2025-02-04,Organic,delivered
+O00457,C0489,2025-12-22,Organic,delivered
+O00458,C0495,2025-06-25,Paid search,cancelled
+O00459,C0359,2025-10-22,Organic,delivered
+O00460,C0047,2025-01-27,Paid search,delivered
+O00461,C0019,2025-07-09,Organic,delivered
+O00462,C0530,2025-10-01,Paid search,delivered
+O00463,C0370,2025-06-24,Email,delivered
+O00464,C0059,2025-09-12,Organic,delivered
+O00465,C0281,2025-10-10,Social,delivered
+O00466,C0034,2025-03-02,Email,delivered
+O00467,C0007,2025-12-01,Organic,delivered
+O00468,C0464,2025-08-22,Paid search,delivered
+O00469,C0503,2025-10-16,Paid search,delivered
+O00470,C0171,2025-09-27,Email,delivered
+O00471,C0057,2025-11-13,Social,delivered
+O00472,C0048,2025-05-04,Email,delivered
+O00473,C0381,2025-01-04,Paid search,delivered
+O00474,C0235,2025-12-23,Social,delivered
+O00475,C0304,2025-01-06,Paid search,delivered
+O00476,C0089,2025-11-18,Paid search,delivered
+O00477,C0088,2025-10-16,Organic,returned
+O00478,C0485,2025-05-26,Paid search,delivered
+O00479,C0013,2025-08-04,Organic,delivered
+O00480,C0325,2025-04-08,Email,delivered
+O00481,C0525,2025-07-07,Paid search,delivered
+O00482,C0023,2025-04-11,Email,delivered
+O00483,C0184,2025-06-10,Email,delivered
+O00484,C0172,2025-08-07,Email,delivered
+O00485,C0494,2025-12-19,Paid search,delivered
+O00486,C0024,2025-11-07,Organic,delivered
+O00487,C0335,2025-07-19,Organic,delivered
+O00488,C0108,2025-12-11,Organic,delivered
+O00489,C0091,2025-05-02,Social,delivered
+O00490,C0231,2025-06-06,Email,delivered
+O00491,C0040,2025-11-25,Organic,delivered
+O00492,C0109,2025-02-23,Email,returned
+O00493,C0016,2025-12-15,Paid search,delivered
+O00494,C0061,2025-12-16,Paid search,delivered
+O00495,C0227,2025-11-17,Paid search,delivered
+O00496,C0494,2025-05-05,Organic,delivered
+O00497,C0050,2025-01-12,Social,delivered
+O00498,C0500,2025-11-23,Email,delivered
+O00499,C0141,2025-06-07,Organic,delivered
+O00500,C0517,2025-08-04,Paid search,delivered
+O00501,C0575,2025-12-18,Organic,delivered
+O00502,C0319,2025-05-04,Social,delivered
+O00503,C0035,2025-01-21,Paid search,delivered
+O00504,C0035,2025-12-13,Organic,delivered
+O00505,C0140,2025-12-28,Organic,returned
+O00506,C0428,2025-12-05,Paid search,delivered
+O00507,C0066,2025-12-25,Organic,delivered
+O00508,C0035,2025-11-05,Email,delivered
+O00509,C0053,2025-01-09,Paid search,delivered
+O00510,C0228,2025-08-23,Organic,delivered
+O00511,C0573,2025-10-16,Email,delivered
+O00512,C0010,2025-03-06,Organic,delivered
+O00513,C0390,2025-11-22,Organic,delivered
+O00514,C0050,2025-01-17,Email,delivered
+O00515,C0299,2025-08-18,Email,delivered
+O00516,C0055,2025-01-12,Organic,delivered
+O00517,C0022,2025-10-10,Organic,delivered
+O00518,C0090,2025-01-22,Organic,delivered
+O00519,C0517,2025-02-04,Organic,returned
+O00520,C0547,2025-11-09,Organic,delivered
+O00521,C0302,2025-01-07,Social,delivered
+O00522,C0033,2025-06-19,Email,delivered
+O00523,C0290,2025-08-12,Paid search,delivered
+O00524,C0575,2025-11-22,Paid search,delivered
+O00525,C0537,2025-11-16,Organic,delivered
+O00526,C0171,2025-06-23,Organic,returned
+O00527,C0379,2025-09-25,Paid search,delivered
+O00528,C0088,2025-02-16,Paid search,delivered
+O00529,C0067,2025-01-06,Email,delivered
+O00530,C0086,2025-05-16,Organic,delivered
+O00531,C0135,2025-01-06,Email,delivered
+O00532,C0132,2025-10-22,Paid search,delivered
+O00533,C0577,2025-10-25,Organic,delivered
+O00534,C0060,2025-01-21,Organic,delivered
+O00535,C0173,2025-04-10,Social,delivered
+O00536,C0457,2025-01-22,Paid search,returned
+O00537,C0069,2025-05-19,Paid search,delivered
+O00538,C0060,2025-11-22,Paid search,delivered
+O00539,C0113,2025-02-28,Organic,delivered
+O00540,C0235,2025-06-03,Organic,delivered
+O00541,C0080,2025-04-17,Email,delivered
+O00542,C0561,2025-08-22,Email,delivered
+O00543,C0053,2025-11-25,Paid search,delivered
+O00544,C0034,2025-04-05,Organic,delivered
+O00545,C0394,2025-01-26,Paid search,delivered
+O00546,C0241,2025-12-22,Organic,returned
+O00547,C0529,2025-11-25,Organic,returned
+O00548,C0069,2025-11-24,Email,delivered
+O00549,C0045,2025-05-14,Paid search,delivered
+O00550,C0474,2025-10-09,Social,delivered
+O00551,C0276,2025-11-02,Email,delivered
+O00552,C0078,2025-11-28,Organic,cancelled
+O00553,C0356,2025-05-26,Paid search,delivered
+O00554,C0062,2025-04-03,Paid search,delivered
+O00555,C0001,2025-11-05,Organic,delivered
+O00556,C0271,2025-03-20,Email,delivered
+O00557,C0065,2025-04-14,Paid search,delivered
+O00558,C0445,2025-04-23,Organic,delivered
+O00559,C0516,2025-08-25,Paid search,delivered
+O00560,C0051,2025-11-09,Paid search,delivered
+O00561,C0503,2025-04-15,Organic,delivered
+O00562,C0075,2025-10-23,Paid search,delivered
+O00563,C0179,2025-10-26,Email,delivered
+O00564,C0567,2025-10-05,Paid search,delivered
+O00565,C0056,2025-07-03,Paid search,delivered
+O00566,C0336,2025-12-09,Social,delivered
+O00567,C0219,2025-11-22,Paid search,delivered
+O00568,C0021,2025-10-14,Social,delivered
+O00569,C0461,2025-02-24,Organic,delivered
+O00570,C0073,2025-11-06,Organic,delivered
+O00571,C0429,2025-12-04,Organic,delivered
+O00572,C0600,2025-07-24,Social,delivered
+O00573,C0013,2025-11-24,Social,delivered
+O00574,C0445,2025-06-01,Organic,delivered
+O00575,C0397,2025-11-24,Organic,delivered
+O00576,C0480,2025-04-15,Paid search,delivered
+O00577,C0017,2025-07-14,Paid search,cancelled
+O00578,C0077,2025-02-15,Social,delivered
+O00579,C0052,2025-04-14,Organic,delivered
+O00580,C0147,2025-07-24,Organic,delivered
+O00581,C0032,2025-07-26,Paid search,delivered
+O00582,C0033,2025-11-07,Email,delivered
+O00583,C0182,2025-10-24,Paid search,delivered
+O00584,C0233,2025-08-05,Paid search,delivered
+O00585,C0083,2025-07-16,Email,delivered
+O00586,C0212,2025-05-04,Email,cancelled
+O00587,C0462,2025-12-27,Organic,delivered
+O00588,C0484,2025-12-14,Organic,delivered
+O00589,C0039,2025-07-17,Social,delivered
+O00590,C0236,2025-07-22,Organic,delivered
+O00591,C0037,2025-08-08,Organic,delivered
+O00592,C0040,2025-04-18,Organic,delivered
+O00593,C0275,2025-12-28,Paid search,delivered
+O00594,C0008,2025-02-18,Organic,delivered
+O00595,C0022,2025-05-05,Organic,cancelled
+O00596,C0343,2025-04-23,Organic,delivered
+O00597,C0514,2025-11-14,Social,cancelled
+O00598,C0015,2025-08-03,Organic,cancelled
+O00599,C0498,2025-12-05,Organic,delivered
+O00600,C0330,2025-11-24,Social,delivered
+O00601,C0036,2025-06-21,Paid search,delivered
+O00602,C0115,2025-05-02,Paid search,delivered
+O00603,C0173,2025-12-18,Organic,delivered
+O00604,C0234,2025-02-25,Organic,delivered
+O00605,C0249,2025-12-21,Email,delivered
+O00606,C0067,2025-10-23,Email,delivered
+O00607,C0483,2025-02-14,Paid search,delivered
+O00608,C0047,2025-11-28,Paid search,delivered
+O00609,C0023,2025-03-17,Email,delivered
+O00610,C0182,2025-09-04,Paid search,delivered
+O00611,C0026,2025-08-26,Email,delivered
+O00612,C0080,2025-09-19,Organic,delivered
+O00613,C0072,2025-10-20,Organic,delivered
+O00614,C0361,2025-09-26,Organic,delivered
+O00615,C0084,2025-08-25,Social,delivered
+O00616,C0169,2025-09-13,Paid search,returned
+O00617,C0016,2025-05-09,Social,delivered
+O00618,C0263,2025-05-14,Organic,cancelled
+O00619,C0488,2025-05-14,Organic,returned
+O00620,C0131,2025-01-15,Organic,delivered
+O00621,C0054,2025-10-05,Paid search,delivered
+O00622,C0080,2025-07-18,Organic,delivered
+O00623,C0038,2025-06-21,Email,delivered
+O00624,C0423,2025-06-04,Email,cancelled
+O00625,C0246,2025-07-08,Organic,delivered
+O00626,C0015,2025-11-18,Email,delivered
+O00627,C0432,2025-06-06,Email,cancelled
+O00628,C0347,2025-04-01,Email,delivered
+O00629,C0566,2025-04-16,Organic,delivered
+O00630,C0087,2025-05-17,Paid search,delivered
+O00631,C0449,2025-04-19,Social,delivered
+O00632,C0045,2025-10-20,Paid search,delivered
+O00633,C0347,2025-08-17,Social,delivered
+O00634,C0015,2025-06-11,Paid search,delivered
+O00635,C0017,2025-01-21,Paid search,delivered
+O00636,C0059,2025-11-27,Email,returned
+O00637,C0372,2025-11-03,Organic,delivered
+O00638,C0010,2025-10-18,Email,delivered
+O00639,C0474,2025-07-14,Paid search,delivered
+O00640,C0023,2025-03-19,Paid search,delivered
+O00641,C0558,2025-09-17,Email,delivered
+O00642,C0427,2025-04-27,Email,delivered
+O00643,C0252,2025-02-07,Email,cancelled
+O00644,C0507,2025-02-26,Paid search,returned
+O00645,C0328,2025-11-26,Organic,delivered
+O00646,C0305,2025-03-09,Organic,delivered
+O00647,C0262,2025-02-27,Paid search,delivered
+O00648,C0030,2025-11-22,Paid search,delivered
+O00649,C0280,2025-03-13,Organic,delivered
+O00650,C0386,2025-04-21,Email,delivered
+O00651,C0057,2025-08-06,Paid search,delivered
+O00652,C0080,2025-04-07,Organic,delivered
+O00653,C0015,2025-06-18,Email,delivered
+O00654,C0395,2025-07-12,Organic,delivered
+O00655,C0435,2025-12-10,Paid search,delivered
+O00656,C0049,2025-11-28,Email,cancelled
+O00657,C0589,2025-08-17,Social,delivered
+O00658,C0131,2025-08-26,Paid search,delivered
+O00659,C0074,2025-11-23,Paid search,delivered
+O00660,C0088,2025-12-01,Paid search,delivered
+O00661,C0053,2025-11-18,Paid search,delivered
+O00662,C0390,2025-05-21,Social,delivered
+O00663,C0084,2025-08-07,Organic,cancelled
+O00664,C0033,2025-09-01,Organic,cancelled
+O00665,C0095,2025-07-12,Organic,delivered
+O00666,C0013,2025-07-24,Social,delivered
+O00667,C0184,2025-10-06,Social,delivered
+O00668,C0044,2025-06-26,Organic,delivered
+O00669,C0298,2025-06-27,Organic,delivered
+O00670,C0543,2025-02-23,Organic,returned
+O00671,C0309,2025-02-24,Organic,delivered
+O00672,C0338,2025-10-22,Paid search,delivered
+O00673,C0043,2025-02-22,Social,delivered
+O00674,C0078,2025-10-05,Organic,delivered
+O00675,C0078,2025-06-10,Paid search,delivered
+O00676,C0003,2025-04-03,Organic,delivered
+O00677,C0058,2025-08-27,Paid search,delivered
+O00678,C0063,2025-04-04,Organic,delivered
+O00679,C0233,2025-10-09,Organic,delivered
+O00680,C0113,2025-12-23,Social,delivered
+O00681,C0521,2025-10-22,Email,delivered
+O00682,C0004,2025-08-11,Social,delivered
+O00683,C0055,2025-11-04,Email,delivered
+O00684,C0178,2025-01-24,Social,delivered
+O00685,C0577,2025-01-26,Paid search,delivered
+O00686,C0588,2025-08-22,Email,delivered
+O00687,C0464,2025-10-03,Organic,delivered
+O00688,C0014,2025-04-17,Email,delivered
+O00689,C0456,2025-10-09,Paid search,cancelled
+O00690,C0076,2025-08-24,Organic,cancelled
+O00691,C0031,2025-03-24,Paid search,delivered
+O00692,C0035,2025-03-16,Social,delivered
+O00693,C0072,2025-12-03,Organic,returned
+O00694,C0509,2025-12-25,Email,delivered
+O00695,C0518,2025-04-02,Organic,delivered
+O00696,C0026,2025-07-22,Organic,delivered
+O00697,C0095,2025-10-03,Organic,delivered
+O00698,C0016,2025-12-28,Paid search,delivered
+O00699,C0054,2025-11-23,Social,delivered
+O00700,C0320,2025-07-10,Organic,delivered
+O00701,C0338,2025-03-02,Email,delivered
+O00702,C0018,2025-08-25,Organic,delivered
+O00703,C0002,2025-04-26,Paid search,cancelled
+O00704,C0539,2025-05-08,Paid search,delivered
+O00705,C0284,2025-01-28,Email,returned
+O00706,C0406,2025-12-25,Organic,delivered
+O00707,C0216,2025-11-01,Email,cancelled
+O00708,C0587,2025-06-16,Email,returned
+O00709,C0006,2025-11-17,Paid search,delivered
+O00710,C0016,2025-12-23,Paid search,delivered
+O00711,C0250,2025-04-09,Social,delivered
+O00712,C0521,2025-12-25,Organic,delivered
+O00713,C0060,2025-02-03,Paid search,delivered
+O00714,C0056,2025-11-14,Organic,delivered
+O00715,C0088,2025-05-08,Paid search,delivered
+O00716,C0055,2025-01-11,Social,delivered
+O00717,C0040,2025-11-26,Email,returned
+O00718,C0590,2025-07-16,Email,delivered
+O00719,C0160,2025-05-26,Email,delivered
+O00720,C0395,2025-03-07,Organic,delivered
+O00721,C0548,2025-11-13,Paid search,delivered
+O00722,C0043,2025-10-13,Organic,delivered
+O00723,C0591,2025-06-23,Email,delivered
+O00724,C0224,2025-02-16,Social,delivered
+O00725,C0288,2025-08-21,Organic,delivered
+O00726,C0286,2025-03-27,Paid search,delivered
+O00727,C0032,2025-12-04,Paid search,delivered
+O00728,C0007,2025-04-25,Social,delivered
+O00729,C0053,2025-10-08,Social,delivered
+O00730,C0018,2025-08-23,Email,delivered
+O00731,C0038,2025-03-18,Organic,delivered
+O00732,C0261,2025-02-09,Social,delivered
+O00733,C0301,2025-10-07,Paid search,delivered
+O00734,C0014,2025-12-08,Organic,delivered
+O00735,C0048,2025-11-08,Organic,cancelled
+O00736,C0169,2025-08-10,Email,delivered
+O00737,C0030,2025-09-02,Social,delivered
+O00738,C0071,2025-09-28,Paid search,delivered
+O00739,C0574,2025-12-21,Email,delivered
+O00740,C0097,2025-05-14,Email,returned
+O00741,C0438,2025-07-11,Paid search,delivered
+O00742,C0527,2025-11-18,Email,delivered
+O00743,C0507,2025-01-07,Email,delivered
+O00744,C0269,2025-12-17,Organic,delivered
+O00745,C0090,2025-06-05,Social,delivered
+O00746,C0117,2025-10-27,Email,delivered
+O00747,C0039,2025-10-13,Organic,returned
+O00748,C0062,2025-07-10,Organic,returned
+O00749,C0091,2025-03-17,Organic,delivered
+O00750,C0403,2025-12-18,Organic,delivered
+O00751,C0332,2025-03-14,Social,delivered
+O00752,C0128,2025-02-16,Email,delivered
+O00753,C0023,2025-11-13,Social,delivered
+O00754,C0422,2025-04-22,Paid search,delivered
+O00755,C0199,2025-11-08,Email,delivered
+O00756,C0076,2025-04-27,Paid search,delivered
+O00757,C0211,2025-12-19,Organic,delivered
+O00758,C0035,2025-07-20,Email,delivered
+O00759,C0054,2025-07-02,Organic,delivered
+O00760,C0010,2025-03-01,Email,delivered
+O00761,C0003,2025-02-22,Paid search,delivered
+O00762,C0066,2025-09-20,Paid search,delivered
+O00763,C0567,2025-02-19,Social,delivered
+O00764,C0053,2025-09-11,Paid search,delivered
+O00765,C0503,2025-11-28,Social,returned
+O00766,C0528,2025-08-17,Paid search,delivered
+O00767,C0070,2025-03-27,Email,returned
+O00768,C0080,2025-12-17,Email,delivered
+O00769,C0008,2025-02-08,Organic,delivered
+O00770,C0580,2025-11-21,Social,delivered
+O00771,C0544,2025-06-03,Social,delivered
+O00772,C0416,2025-10-01,Organic,cancelled
+O00773,C0163,2025-11-25,Email,delivered
+O00774,C0079,2025-11-05,Email,delivered
+O00775,C0031,2025-03-28,Paid search,returned
+O00776,C0272,2025-03-13,Organic,delivered
+O00777,C0025,2025-02-17,Email,delivered
+O00778,C0532,2025-11-21,Organic,delivered
+O00779,C0019,2025-01-26,Email,delivered
+O00780,C0043,2025-05-05,Paid search,delivered
+O00781,C0005,2025-03-08,Paid search,delivered
+O00782,C0040,2025-03-04,Social,delivered
+O00783,C0185,2025-12-02,Organic,delivered
+O00784,C0048,2025-06-04,Paid search,delivered
+O00785,C0367,2025-11-05,Organic,delivered
+O00786,C0049,2025-07-24,Organic,cancelled
+O00787,C0182,2025-08-14,Paid search,delivered
+O00788,C0157,2025-10-17,Email,delivered
+O00789,C0011,2025-12-04,Organic,delivered
+O00790,C0021,2025-01-05,Email,delivered
+O00791,C0028,2025-11-28,Organic,delivered
+O00792,C0083,2025-03-06,Organic,delivered
+O00793,C0031,2025-01-25,Organic,delivered
+O00794,C0054,2025-12-17,Organic,returned
+O00795,C0071,2025-02-07,Organic,delivered
+O00796,C0075,2025-11-21,Organic,delivered
+O00797,C0038,2025-09-03,Organic,returned
+O00798,C0144,2025-04-19,Paid search,delivered
+O00799,C0050,2025-12-25,Paid search,delivered
+O00800,C0088,2025-11-04,Email,delivered
+O00801,C0266,2025-12-26,Organic,delivered
+O00802,C0068,2025-10-22,Organic,delivered
+O00803,C0025,2025-02-01,Email,delivered
+O00804,C0578,2025-04-16,Email,delivered
+O00805,C0206,2025-06-28,Organic,delivered
+O00806,C0577,2025-10-20,Organic,delivered
+O00807,C0068,2025-11-08,Paid search,delivered
+O00808,C0357,2025-12-13,Organic,delivered
+O00809,C0080,2025-08-09,Paid search,returned
+O00810,C0011,2025-09-13,Email,delivered
+O00811,C0254,2025-07-07,Organic,delivered
+O00812,C0540,2025-03-12,Paid search,delivered
+O00813,C0198,2025-11-19,Organic,cancelled
+O00814,C0309,2025-07-17,Social,returned
+O00815,C0037,2025-06-12,Organic,delivered
+O00816,C0020,2025-12-11,Organic,delivered
+O00817,C0273,2025-05-22,Paid search,delivered
+O00818,C0338,2025-07-16,Paid search,delivered
+O00819,C0067,2025-11-18,Organic,delivered
+O00820,C0070,2025-10-24,Social,delivered
+O00821,C0006,2025-04-14,Organic,delivered
+O00822,C0420,2025-09-13,Email,delivered
+O00823,C0094,2025-06-11,Paid search,delivered
+O00824,C0017,2025-05-03,Paid search,delivered
+O00825,C0583,2025-11-05,Paid search,delivered
+O00826,C0313,2025-08-08,Email,delivered
+O00827,C0585,2025-10-21,Email,delivered
+O00828,C0004,2025-02-26,Organic,cancelled
+O00829,C0399,2025-10-15,Organic,delivered
+O00830,C0594,2025-02-11,Paid search,delivered
+O00831,C0350,2025-01-17,Organic,delivered
+O00832,C0235,2025-06-18,Paid search,delivered
+O00833,C0482,2025-03-28,Organic,delivered
+O00834,C0335,2025-07-20,Email,delivered
+O00835,C0557,2025-03-02,Organic,delivered
+O00836,C0043,2025-11-12,Organic,delivered
+O00837,C0038,2025-01-11,Paid search,delivered
+O00838,C0140,2025-08-04,Email,returned
+O00839,C0009,2025-11-16,Organic,delivered
+O00840,C0588,2025-11-19,Social,delivered
+O00841,C0056,2025-11-09,Organic,delivered
+O00842,C0018,2025-06-20,Organic,delivered
+O00843,C0034,2025-04-03,Social,delivered
+O00844,C0067,2025-09-26,Email,returned
+O00845,C0079,2025-12-21,Organic,delivered
+O00846,C0297,2025-04-10,Organic,delivered
+O00847,C0011,2025-02-16,Organic,delivered
+O00848,C0027,2025-10-21,Paid search,returned
+O00849,C0370,2025-09-07,Organic,delivered
+O00850,C0471,2025-02-15,Email,delivered
+O00851,C0088,2025-04-13,Paid search,delivered
+O00852,C0052,2025-12-07,Paid search,delivered
+O00853,C0490,2025-04-02,Paid search,delivered
+O00854,C0474,2025-04-27,Organic,delivered
+O00855,C0503,2025-11-28,Organic,delivered
+O00856,C0084,2025-12-22,Organic,delivered
+O00857,C0569,2025-01-12,Paid search,delivered
+O00858,C0428,2025-10-10,Paid search,delivered
+O00859,C0322,2025-05-16,Social,delivered
+O00860,C0459,2025-11-28,Email,delivered
+O00861,C0039,2025-12-28,Social,delivered
+O00862,C0016,2025-06-24,Social,delivered
+O00863,C0587,2025-12-15,Email,delivered
+O00864,C0076,2025-11-04,Paid search,cancelled
+O00865,C0086,2025-10-10,Organic,delivered
+O00866,C0001,2025-06-27,Organic,delivered
+O00867,C0299,2025-03-03,Organic,delivered
+O00868,C0403,2025-12-08,Paid search,delivered
+O00869,C0054,2025-09-10,Organic,returned
+O00870,C0532,2025-10-17,Email,delivered
+O00871,C0556,2025-12-01,Paid search,delivered
+O00872,C0344,2025-12-02,Paid search,delivered
+O00873,C0586,2025-01-27,Organic,delivered
+O00874,C0141,2025-04-05,Social,delivered
+O00875,C0184,2025-02-05,Organic,delivered
+O00876,C0053,2025-06-04,Paid search,delivered
+O00877,C0199,2025-07-22,Paid search,delivered
+O00878,C0036,2025-11-18,Paid search,delivered
+O00879,C0390,2025-06-23,Paid search,delivered
+O00880,C0006,2025-01-10,Paid search,delivered
+O00881,C0002,2025-11-09,Organic,delivered
+O00882,C0377,2025-07-28,Organic,delivered
+O00883,C0187,2025-08-16,Organic,delivered
+O00884,C0071,2025-09-27,Organic,delivered
+O00885,C0348,2025-10-11,Social,delivered
+O00886,C0011,2025-07-03,Organic,delivered
+O00887,C0024,2025-10-13,Paid search,delivered
+O00888,C0076,2025-04-06,Paid search,delivered
+O00889,C0025,2025-04-26,Organic,delivered
+O00890,C0037,2025-08-27,Email,delivered
+O00891,C0066,2025-07-21,Organic,delivered
+O00892,C0063,2025-04-23,Email,delivered
+O00893,C0055,2025-12-17,Paid search,delivered
+O00894,C0321,2025-04-27,Social,delivered
+O00895,C0179,2025-02-14,Paid search,delivered
+O00896,C0054,2025-06-16,Email,cancelled
+O00897,C0454,2025-03-20,Email,delivered
+O00898,C0021,2025-03-15,Paid search,returned
+O00899,C0002,2025-04-19,Paid search,delivered
+O00900,C0055,2025-03-02,Paid search,returned
+O00901,C0299,2025-11-15,Social,delivered
+O00902,C0089,2025-05-18,Organic,returned
+O00903,C0131,2025-04-24,Organic,delivered
+O00904,C0419,2025-09-10,Organic,delivered
+O00905,C0110,2025-03-14,Paid search,delivered
+O00906,C0346,2025-11-07,Organic,delivered
+O00907,C0020,2025-11-26,Paid search,delivered
+O00908,C0333,2025-12-15,Social,delivered
+O00909,C0052,2025-04-18,Paid search,delivered
+O00910,C0003,2025-11-20,Organic,delivered
+O00911,C0049,2025-01-03,Paid search,delivered
+O00912,C0023,2025-04-16,Paid search,delivered
+O00913,C0132,2025-09-02,Organic,cancelled
+O00914,C0414,2025-09-27,Paid search,delivered
+O00915,C0029,2025-05-01,Organic,returned
+O00916,C0423,2025-12-13,Organic,delivered
+O00917,C0144,2025-12-08,Social,delivered
+O00918,C0078,2025-10-17,Organic,delivered
+O00919,C0080,2025-12-08,Email,delivered
+O00920,C0089,2025-02-18,Social,delivered
+O00921,C0258,2025-04-14,Paid search,delivered
+O00922,C0003,2025-03-15,Organic,delivered
+O00923,C0024,2025-03-03,Email,returned
+O00924,C0594,2025-09-04,Organic,delivered
+O00925,C0051,2025-11-14,Paid search,delivered
+O00926,C0174,2025-02-01,Organic,delivered
+O00927,C0017,2025-05-25,Organic,delivered
+O00928,C0008,2025-11-05,Social,returned
+O00929,C0048,2025-03-10,Paid search,returned
+O00930,C0049,2025-12-22,Organic,delivered
+O00931,C0425,2025-03-16,Organic,delivered
+O00932,C0087,2025-02-14,Organic,delivered
+O00933,C0039,2025-02-26,Organic,delivered
+O00934,C0273,2025-11-23,Social,delivered
+O00935,C0430,2025-11-22,Paid search,returned
+O00936,C0405,2025-08-16,Email,delivered
+O00937,C0077,2025-11-01,Paid search,delivered
+O00938,C0240,2025-06-17,Organic,delivered
+O00939,C0063,2025-10-20,Paid search,delivered
+O00940,C0021,2025-04-14,Paid search,delivered
+O00941,C0395,2025-12-27,Paid search,delivered
+O00942,C0011,2025-11-14,Email,delivered
+O00943,C0047,2025-04-02,Email,delivered
+O00944,C0186,2025-09-05,Organic,delivered
+O00945,C0431,2025-04-06,Paid search,delivered
+O00946,C0044,2025-04-24,Organic,delivered
+O00947,C0362,2025-01-21,Organic,delivered
+O00948,C0456,2025-11-09,Organic,delivered
+O00949,C0383,2025-02-19,Organic,delivered
+O00950,C0036,2025-05-15,Organic,delivered
+O00951,C0089,2025-12-18,Paid search,cancelled
+O00952,C0065,2025-11-15,Paid search,delivered
+O00953,C0540,2025-03-28,Paid search,delivered
+O00954,C0356,2025-11-02,Organic,delivered
+O00955,C0001,2025-09-28,Email,delivered
+O00956,C0075,2025-11-04,Organic,delivered
+O00957,C0007,2025-07-04,Paid search,delivered
+O00958,C0099,2025-12-09,Paid search,delivered
+O00959,C0083,2025-08-09,Organic,delivered
+O00960,C0593,2025-03-03,Organic,delivered
+O00961,C0175,2025-01-15,Organic,delivered
+O00962,C0532,2025-10-13,Paid search,delivered
+O00963,C0142,2025-05-09,Organic,delivered
+O00964,C0252,2025-11-20,Paid search,delivered
+O00965,C0075,2025-08-15,Paid search,delivered
+O00966,C0108,2025-11-11,Social,delivered
+O00967,C0449,2025-01-12,Email,delivered
+O00968,C0066,2025-12-13,Social,cancelled
+O00969,C0507,2025-05-04,Social,delivered
+O00970,C0596,2025-08-02,Email,delivered
+O00971,C0214,2025-12-20,Paid search,delivered
+O00972,C0439,2025-02-27,Organic,delivered
+O00973,C0195,2025-11-21,Organic,delivered
+O00974,C0011,2025-11-22,Organic,delivered
+O00975,C0274,2025-05-07,Paid search,delivered
+O00976,C0032,2025-02-03,Organic,delivered
+O00977,C0054,2025-11-08,Email,returned
+O00978,C0031,2025-03-07,Organic,delivered
+O00979,C0079,2025-11-17,Paid search,delivered
+O00980,C0076,2025-04-23,Paid search,delivered
+O00981,C0048,2025-11-26,Paid search,delivered
+O00982,C0084,2025-10-06,Paid search,delivered
+O00983,C0074,2025-12-06,Organic,delivered
+O00984,C0077,2025-03-01,Paid search,delivered
+O00985,C0053,2025-08-13,Social,returned
+O00986,C0030,2025-01-17,Organic,delivered
+O00987,C0569,2025-11-02,Organic,delivered
+O00988,C0016,2025-11-14,Organic,delivered
+O00989,C0292,2025-06-15,Email,delivered
+O00990,C0317,2025-05-22,Paid search,delivered
+O00991,C0032,2025-01-20,Organic,delivered
+O00992,C0037,2025-08-02,Paid search,delivered
+O00993,C0032,2025-12-14,Paid search,delivered
+O00994,C0394,2025-10-13,Organic,delivered
+O00995,C0075,2025-11-10,Email,delivered
+O00996,C0068,2025-07-25,Email,delivered
+O00997,C0466,2025-11-24,Paid search,delivered
+O00998,C0045,2025-09-12,Organic,delivered
+O00999,C0326,2025-11-18,Organic,delivered
+O01000,C0571,2025-12-12,Email,delivered
+O01001,C0090,2025-12-13,Email,delivered
+O01002,C0429,2025-11-03,Paid search,delivered
+O01003,C0043,2025-08-26,Email,delivered
+O01004,C0263,2025-09-06,Organic,delivered
+O01005,C0575,2025-07-26,Organic,delivered
+O01006,C0419,2025-11-20,Paid search,delivered
+O01007,C0061,2025-06-11,Paid search,delivered
+O01008,C0213,2025-11-03,Paid search,delivered
+O01009,C0082,2025-05-22,Organic,delivered
+O01010,C0066,2025-11-08,Paid search,delivered
+O01011,C0072,2025-12-18,Email,delivered
+O01012,C0113,2025-10-17,Paid search,delivered
+O01013,C0422,2025-05-18,Email,delivered
+O01014,C0025,2025-01-08,Paid search,cancelled
+O01015,C0550,2025-08-03,Organic,delivered
+O01016,C0057,2025-12-07,Organic,returned
+O01017,C0387,2025-07-08,Social,delivered
+O01018,C0081,2025-12-08,Social,delivered
+O01019,C0013,2025-08-13,Paid search,delivered
+O01020,C0011,2025-08-24,Email,delivered
+O01021,C0026,2025-11-04,Organic,delivered
+O01022,C0047,2025-11-07,Organic,delivered
+O01023,C0285,2025-05-15,Paid search,delivered
+O01024,C0028,2025-05-23,Paid search,delivered
+O01025,C0052,2025-03-20,Paid search,delivered
+O01026,C0308,2025-01-12,Email,cancelled
+O01027,C0446,2025-10-19,Organic,delivered
+O01028,C0040,2025-04-07,Organic,delivered
+O01029,C0329,2025-11-08,Organic,delivered
+O01030,C0010,2025-11-26,Paid search,delivered
+O01031,C0275,2025-11-08,Paid search,delivered
+O01032,C0053,2025-12-17,Organic,delivered
+O01033,C0021,2025-02-16,Organic,delivered
+O01034,C0367,2025-02-15,Organic,delivered
+O01035,C0090,2025-05-16,Social,delivered
+O01036,C0083,2025-01-17,Organic,delivered
+O01037,C0116,2025-06-22,Organic,delivered
+O01038,C0037,2025-05-20,Email,delivered
+O01039,C0057,2025-09-06,Paid search,delivered
+O01040,C0054,2025-05-05,Email,delivered
+O01041,C0537,2025-07-25,Organic,delivered
+O01042,C0425,2025-10-10,Organic,delivered
+O01043,C0078,2025-04-17,Organic,delivered
+O01044,C0371,2025-08-02,Paid search,cancelled
+O01045,C0065,2025-06-18,Social,delivered
+O01046,C0027,2025-11-27,Organic,delivered
+O01047,C0046,2025-09-22,Paid search,delivered
+O01048,C0064,2025-11-28,Email,delivered
+O01049,C0571,2025-05-22,Organic,delivered
+O01050,C0145,2025-08-01,Social,cancelled
+O01051,C0389,2025-02-06,Email,delivered
+O01052,C0058,2025-11-21,Organic,delivered
+O01053,C0069,2025-01-27,Organic,delivered
+O01054,C0249,2025-08-21,Email,delivered
+O01055,C0054,2025-11-07,Organic,delivered
+O01056,C0041,2025-03-09,Social,delivered
+O01057,C0332,2025-01-28,Email,delivered
+O01058,C0017,2025-09-04,Organic,returned
+O01059,C0073,2025-11-11,Organic,delivered
+O01060,C0018,2025-07-28,Organic,delivered
+O01061,C0401,2025-02-21,Email,delivered
+O01062,C0327,2025-11-28,Organic,delivered
+O01063,C0036,2025-03-16,Paid search,delivered
+O01064,C0351,2025-01-13,Email,delivered
+O01065,C0568,2025-12-04,Paid search,delivered
+O01066,C0252,2025-08-20,Organic,delivered
+O01067,C0019,2025-06-20,Organic,delivered
+O01068,C0495,2025-12-25,Organic,delivered
+O01069,C0214,2025-12-13,Email,cancelled
+O01070,C0003,2025-03-11,Paid search,delivered
+O01071,C0124,2025-07-09,Organic,delivered
+O01072,C0450,2025-10-22,Email,delivered
+O01073,C0061,2025-05-28,Paid search,delivered
+O01074,C0062,2025-04-24,Paid search,delivered
+O01075,C0452,2025-03-21,Organic,returned
+O01076,C0497,2025-06-13,Social,returned
+O01077,C0194,2025-05-24,Social,delivered
+O01078,C0069,2025-12-08,Organic,delivered
+O01079,C0166,2025-02-24,Email,delivered
+O01080,C0101,2025-02-10,Email,delivered
+O01081,C0027,2025-11-15,Social,delivered
+O01082,C0277,2025-09-23,Email,delivered
+O01083,C0064,2025-12-28,Email,delivered
+O01084,C0429,2025-05-22,Social,delivered
+O01085,C0047,2025-09-22,Social,delivered
+O01086,C0431,2025-09-19,Paid search,delivered
+O01087,C0407,2025-12-14,Email,delivered
+O01088,C0253,2025-11-14,Organic,delivered
+O01089,C0080,2025-11-24,Social,delivered
+O01090,C0384,2025-10-25,Organic,delivered
+O01091,C0062,2025-11-11,Paid search,delivered
+O01092,C0491,2025-05-15,Email,cancelled
+O01093,C0139,2025-08-21,Email,delivered
+O01094,C0071,2025-10-22,Organic,delivered
+O01095,C0195,2025-12-10,Social,delivered
+O01096,C0087,2025-12-01,Email,cancelled
+O01097,C0043,2025-03-10,Organic,delivered
+O01098,C0293,2025-06-09,Social,delivered
+O01099,C0063,2025-04-18,Social,delivered
+O01100,C0185,2025-02-27,Email,delivered
+O01101,C0012,2025-08-14,Social,delivered
+O01102,C0012,2025-11-05,Organic,cancelled
+O01103,C0076,2025-10-16,Email,delivered
+O01104,C0041,2025-10-11,Email,delivered
+O01105,C0010,2025-11-20,Email,delivered
+O01106,C0232,2025-11-01,Paid search,delivered
+O01107,C0067,2025-06-14,Paid search,delivered
+O01108,C0016,2025-12-16,Organic,delivered
+O01109,C0046,2025-11-17,Email,delivered
+O01110,C0005,2025-05-10,Social,delivered
+O01111,C0031,2025-09-19,Paid search,delivered
+O01112,C0019,2025-05-10,Email,delivered
+O01113,C0535,2025-12-11,Social,delivered
+O01114,C0064,2025-02-08,Organic,delivered
+O01115,C0402,2025-12-16,Social,delivered
+O01116,C0050,2025-09-07,Organic,delivered
+O01117,C0086,2025-02-01,Organic,delivered
+O01118,C0010,2025-11-23,Email,delivered
+O01119,C0327,2025-03-11,Paid search,delivered
+O01120,C0468,2025-11-22,Email,delivered
+O01121,C0548,2025-04-15,Social,delivered
+O01122,C0519,2025-09-02,Organic,delivered
+O01123,C0028,2025-11-02,Paid search,delivered
+O01124,C0036,2025-12-10,Email,delivered
+O01125,C0497,2025-06-27,Email,delivered
+O01126,C0021,2025-04-21,Organic,delivered
+O01127,C0301,2025-04-22,Email,delivered
+O01128,C0548,2025-06-07,Paid search,delivered
+O01129,C0068,2025-04-27,Organic,delivered
+O01130,C0358,2025-03-20,Paid search,delivered
+O01131,C0545,2025-06-05,Paid search,delivered
+O01132,C0135,2025-09-10,Organic,cancelled
+O01133,C0030,2025-01-24,Social,delivered
+O01134,C0405,2025-01-02,Email,delivered
+O01135,C0507,2025-01-27,Social,delivered
+O01136,C0194,2025-04-16,Organic,cancelled
+O01137,C0600,2025-03-13,Social,delivered
+O01138,C0445,2025-10-18,Social,delivered
+O01139,C0060,2025-06-12,Paid search,delivered
+O01140,C0496,2025-11-12,Paid search,delivered
+O01141,C0235,2025-08-18,Organic,delivered
+O01142,C0279,2025-12-01,Paid search,delivered
+O01143,C0371,2025-10-19,Organic,delivered
+O01144,C0470,2025-08-21,Email,delivered
+O01145,C0055,2025-05-03,Social,delivered
+O01146,C0163,2025-10-11,Email,delivered
+O01147,C0072,2025-02-20,Paid search,delivered
+O01148,C0344,2025-12-04,Organic,delivered
+O01149,C0528,2025-12-12,Paid search,delivered
+O01150,C0020,2025-10-05,Social,cancelled
+O01151,C0063,2025-12-03,Social,delivered
+O01152,C0086,2025-12-01,Social,delivered
+O01153,C0338,2025-05-09,Email,delivered
+O01154,C0322,2025-12-01,Organic,delivered
+O01155,C0024,2025-07-11,Organic,delivered
+O01156,C0396,2025-12-03,Social,delivered
+O01157,C0003,2025-02-24,Email,returned
+O01158,C0194,2025-11-04,Organic,delivered
+O01159,C0034,2025-05-17,Email,delivered
+O01160,C0002,2025-07-17,Organic,delivered
+O01161,C0014,2025-02-25,Organic,delivered
+O01162,C0045,2025-12-22,Email,delivered
+O01163,C0014,2025-11-14,Email,delivered
+O01164,C0283,2025-11-12,Paid search,cancelled
+O01165,C0124,2025-11-11,Email,delivered
+O01166,C0439,2025-07-26,Social,delivered
+O01167,C0064,2025-10-13,Paid search,delivered
+O01168,C0553,2025-03-27,Paid search,delivered
+O01169,C0012,2025-01-04,Organic,delivered
+O01170,C0003,2025-04-16,Organic,delivered
+O01171,C0273,2025-11-26,Organic,delivered
+O01172,C0216,2025-12-11,Social,delivered
+O01173,C0564,2025-03-05,Email,delivered
+O01174,C0026,2025-02-25,Organic,delivered
+O01175,C0441,2025-10-12,Organic,delivered
+O01176,C0186,2025-05-11,Paid search,delivered
+O01177,C0381,2025-08-08,Paid search,delivered
+O01178,C0351,2025-01-21,Organic,delivered
+O01179,C0080,2025-03-20,Organic,delivered
+O01180,C0007,2025-09-25,Organic,delivered
+O01181,C0099,2025-03-04,Social,delivered
+O01182,C0224,2025-01-14,Paid search,delivered
+O01183,C0283,2025-01-27,Paid search,delivered
+O01184,C0087,2025-08-10,Paid search,delivered
+O01185,C0476,2025-10-19,Paid search,delivered
+O01186,C0047,2025-11-10,Paid search,delivered
+O01187,C0090,2025-12-22,Paid search,delivered
+O01188,C0323,2025-04-19,Organic,delivered
+O01189,C0041,2025-01-21,Social,delivered
+O01190,C0037,2025-03-11,Social,delivered
+O01191,C0177,2025-08-18,Email,delivered
+O01192,C0316,2025-05-13,Social,delivered
+O01193,C0049,2025-12-03,Paid search,delivered
+O01194,C0511,2025-12-26,Organic,delivered
+O01195,C0038,2025-11-05,Paid search,delivered
+O01196,C0493,2025-12-19,Paid search,cancelled
+O01197,C0596,2025-07-01,Organic,delivered
+O01198,C0029,2025-11-18,Paid search,delivered
+O01199,C0356,2025-07-12,Organic,delivered
+O01200,C0117,2025-07-25,Email,returned
+O01201,C0028,2025-10-24,Email,delivered
+O01202,C0248,2025-01-18,Organic,delivered
+O01203,C0411,2025-06-22,Organic,delivered
+O01204,C0490,2025-03-23,Organic,delivered
+O01205,C0550,2025-09-04,Organic,delivered
+O01206,C0080,2025-02-09,Organic,returned
+O01207,C0217,2025-09-16,Paid search,delivered
+O01208,C0086,2025-12-22,Organic,delivered
+O01209,C0080,2025-10-04,Email,delivered
+O01210,C0013,2025-12-15,Organic,delivered
+O01211,C0052,2025-03-15,Organic,delivered
+O01212,C0086,2025-02-16,Organic,delivered
+O01213,C0018,2025-11-04,Organic,delivered
+O01214,C0083,2025-09-14,Organic,delivered
+O01215,C0071,2025-10-16,Social,returned
+O01216,C0240,2025-08-26,Paid search,delivered
+O01217,C0066,2025-10-01,Paid search,delivered
+O01218,C0392,2025-04-16,Organic,delivered
+O01219,C0451,2025-03-05,Organic,delivered
+O01220,C0046,2025-12-27,Organic,delivered
+O01221,C0547,2025-03-20,Paid search,delivered
+O01222,C0026,2025-02-25,Paid search,delivered
+O01223,C0113,2025-05-27,Organic,delivered
+O01224,C0083,2025-11-05,Organic,delivered
+O01225,C0469,2025-10-09,Paid search,delivered
+O01226,C0243,2025-09-22,Email,returned
+O01227,C0131,2025-06-18,Organic,delivered
+O01228,C0033,2025-10-11,Paid search,delivered
+O01229,C0026,2025-07-11,Paid search,delivered
+O01230,C0581,2025-04-02,Paid search,delivered
+O01231,C0349,2025-03-12,Social,delivered
+O01232,C0272,2025-11-24,Organic,returned
+O01233,C0184,2025-04-20,Email,returned
+O01234,C0031,2025-05-08,Social,delivered
+O01235,C0044,2025-08-04,Paid search,delivered
+O01236,C0068,2025-11-28,Organic,delivered
+O01237,C0196,2025-12-28,Paid search,delivered
+O01238,C0004,2025-08-11,Paid search,delivered
+O01239,C0268,2025-09-23,Organic,delivered
+O01240,C0067,2025-05-08,Email,cancelled
+O01241,C0067,2025-09-12,Paid search,delivered
+O01242,C0180,2025-09-17,Email,delivered
+O01243,C0049,2025-03-14,Social,delivered
+O01244,C0238,2025-09-19,Email,cancelled
+O01245,C0018,2025-02-25,Email,delivered
+O01246,C0529,2025-03-18,Organic,delivered
+O01247,C0426,2025-04-20,Paid search,delivered
+O01248,C0343,2025-03-20,Organic,delivered
+O01249,C0119,2025-11-18,Paid search,delivered
+O01250,C0595,2025-04-20,Email,delivered
+O01251,C0381,2025-07-19,Email,delivered
+O01252,C0086,2025-12-09,Paid search,delivered
+O01253,C0482,2025-06-13,Email,delivered
+O01254,C0084,2025-12-28,Organic,delivered
+O01255,C0059,2025-01-13,Paid search,delivered
+O01256,C0347,2025-02-15,Paid search,delivered
+O01257,C0244,2025-11-11,Paid search,delivered
+O01258,C0070,2025-09-09,Organic,delivered
+O01259,C0082,2025-11-08,Social,returned
+O01260,C0156,2025-11-09,Paid search,returned
+O01261,C0397,2025-08-09,Email,delivered
+O01262,C0046,2025-05-28,Email,delivered
+O01263,C0029,2025-05-08,Paid search,returned
+O01264,C0027,2025-07-14,Paid search,delivered
+O01265,C0192,2025-04-08,Organic,delivered
+O01266,C0002,2025-02-24,Paid search,delivered
+O01267,C0006,2025-01-06,Organic,delivered
+O01268,C0015,2025-02-19,Organic,delivered
+O01269,C0446,2025-02-20,Organic,delivered
+O01270,C0401,2025-03-16,Organic,delivered
+O01271,C0584,2025-12-26,Organic,delivered
+O01272,C0026,2025-01-04,Social,delivered
+O01273,C0252,2025-02-21,Email,delivered
+O01274,C0069,2025-01-06,Organic,delivered
+O01275,C0566,2025-11-24,Paid search,delivered
+O01276,C0043,2025-03-05,Paid search,cancelled
+O01277,C0416,2025-02-25,Paid search,delivered
+O01278,C0485,2025-05-13,Social,delivered
+O01279,C0080,2025-08-25,Organic,delivered
+O01280,C0427,2025-09-11,Organic,delivered
+O01281,C0001,2025-07-13,Organic,delivered
+O01282,C0038,2025-01-19,Paid search,delivered
+O01283,C0123,2025-11-06,Organic,delivered
+O01284,C0318,2025-02-24,Organic,delivered
+O01285,C0354,2025-03-04,Organic,cancelled
+O01286,C0368,2025-12-03,Email,returned
+O01287,C0397,2025-06-13,Paid search,delivered
+O01288,C0029,2025-02-03,Organic,delivered
+O01289,C0076,2025-06-25,Email,delivered
+O01290,C0283,2025-11-24,Social,delivered
+O01291,C0531,2025-06-22,Paid search,delivered
+O01292,C0313,2025-09-18,Organic,delivered
+O01293,C0007,2025-11-10,Organic,returned
+O01294,C0574,2025-07-03,Organic,delivered
+O01295,C0184,2025-03-17,Email,delivered
+O01296,C0038,2025-02-19,Email,delivered
+O01297,C0127,2025-02-23,Paid search,delivered
+O01298,C0055,2025-06-02,Email,delivered
+O01299,C0001,2025-12-19,Social,delivered
+O01300,C0286,2025-10-19,Organic,delivered
+O01301,C0001,2025-04-14,Paid search,delivered
+O01302,C0073,2025-03-19,Paid search,delivered
+O01303,C0335,2025-07-07,Email,delivered
+O01304,C0049,2025-06-07,Organic,delivered
+O01305,C0079,2025-02-07,Organic,delivered
+O01306,C0049,2025-10-22,Paid search,delivered
+O01307,C0043,2025-11-22,Paid search,delivered
+O01308,C0011,2025-11-27,Paid search,delivered
+O01309,C0083,2025-07-01,Email,delivered
+O01310,C0029,2025-12-09,Organic,returned
+O01311,C0090,2025-12-18,Social,delivered
+O01312,C0012,2025-11-01,Social,delivered
+O01313,C0027,2025-12-01,Organic,delivered
+O01314,C0044,2025-11-14,Email,delivered
+O01315,C0009,2025-12-11,Organic,delivered
+O01316,C0014,2025-09-23,Paid search,delivered
+O01317,C0018,2025-12-03,Social,delivered
+O01318,C0591,2025-09-04,Paid search,returned
+O01319,C0274,2025-04-16,Paid search,delivered
+O01320,C0041,2025-02-19,Paid search,delivered
+O01321,C0049,2025-09-22,Organic,delivered
+O01322,C0200,2025-10-08,Organic,delivered
+O01323,C0497,2025-10-27,Paid search,delivered
+O01324,C0353,2025-07-03,Organic,delivered
+O01325,C0133,2025-10-23,Email,returned
+O01326,C0078,2025-09-26,Organic,delivered
+O01327,C0041,2025-03-02,Email,returned
+O01328,C0024,2025-10-27,Paid search,delivered
+O01329,C0479,2025-11-18,Organic,delivered
+O01330,C0032,2025-09-27,Paid search,delivered
+O01331,C0013,2025-03-15,Email,delivered
+O01332,C0005,2025-11-25,Paid search,delivered
+O01333,C0373,2025-11-15,Paid search,delivered
+O01334,C0046,2025-05-10,Organic,delivered
+O01335,C0051,2025-03-25,Paid search,delivered
+O01336,C0001,2025-01-02,Organic,delivered
+O01337,C0071,2025-05-05,Paid search,delivered
+O01338,C0065,2025-06-02,Email,delivered
+O01339,C0037,2025-08-14,Paid search,delivered
+O01340,C0033,2025-12-17,Organic,delivered
+O01341,C0511,2025-08-18,Email,delivered
+O01342,C0353,2025-03-23,Paid search,delivered
+O01343,C0052,2025-06-22,Organic,delivered
+O01344,C0309,2025-10-12,Email,delivered
+O01345,C0543,2025-11-10,Paid search,delivered
+O01346,C0508,2025-03-28,Organic,delivered
+O01347,C0107,2025-08-27,Social,delivered
+O01348,C0422,2025-08-06,Organic,delivered
+O01349,C0051,2025-10-02,Paid search,cancelled
+O01350,C0035,2025-11-12,Paid search,delivered
+O01351,C0022,2025-11-26,Organic,cancelled
+O01352,C0227,2025-04-13,Social,delivered
+O01353,C0350,2025-12-20,Paid search,cancelled
+O01354,C0368,2025-09-11,Organic,delivered
+O01355,C0578,2025-11-27,Organic,delivered
+O01356,C0382,2025-06-20,Organic,delivered
+O01357,C0051,2025-10-19,Paid search,delivered
+O01358,C0035,2025-03-14,Email,delivered
+O01359,C0060,2025-07-11,Organic,delivered
+O01360,C0538,2025-08-14,Organic,delivered
+O01361,C0331,2025-07-26,Paid search,delivered
+O01362,C0069,2025-12-12,Social,delivered
+O01363,C0063,2025-04-11,Email,delivered
+O01364,C0140,2025-08-25,Social,delivered
+O01365,C0324,2025-11-18,Paid search,delivered
+O01366,C0065,2025-01-22,Email,delivered
+O01367,C0163,2025-07-09,Organic,delivered
+O01368,C0131,2025-10-27,Paid search,delivered
+O01369,C0550,2025-09-21,Organic,delivered
+O01370,C0574,2025-09-26,Organic,delivered
+O01371,C0025,2025-04-25,Social,delivered
+O01372,C0352,2025-10-15,Social,delivered
+O01373,C0096,2025-12-08,Organic,delivered
+O01374,C0410,2025-11-27,Organic,delivered
+O01375,C0145,2025-03-23,Paid search,delivered
+O01376,C0072,2025-09-12,Organic,delivered
+O01377,C0355,2025-11-05,Email,delivered
+O01378,C0027,2025-04-18,Paid search,delivered
+O01379,C0069,2025-08-20,Social,delivered
+O01380,C0193,2025-10-27,Email,delivered
+O01381,C0052,2025-10-03,Paid search,delivered
+O01382,C0466,2025-10-07,Social,delivered
+O01383,C0050,2025-07-20,Organic,delivered
+O01384,C0177,2025-07-05,Organic,delivered
+O01385,C0582,2025-12-02,Paid search,returned
+O01386,C0012,2025-10-09,Organic,delivered
+O01387,C0036,2025-10-06,Social,delivered
+O01388,C0029,2025-02-20,Paid search,delivered
+O01389,C0153,2025-07-18,Organic,delivered
+O01390,C0009,2025-05-19,Social,delivered
+O01391,C0017,2025-01-27,Organic,cancelled
+O01392,C0019,2025-06-18,Organic,delivered
+O01393,C0032,2025-09-27,Paid search,delivered
+O01394,C0041,2025-07-27,Email,delivered
+O01395,C0060,2025-05-01,Paid search,delivered
+O01396,C0084,2025-12-15,Organic,delivered
+O01397,C0026,2025-01-18,Paid search,delivered
+O01398,C0468,2025-12-22,Organic,delivered
+O01399,C0013,2025-10-06,Paid search,delivered
+O01400,C0362,2025-09-18,Organic,delivered
+O01401,C0006,2025-11-26,Paid search,delivered
+O01402,C0053,2025-05-05,Paid search,delivered
+O01403,C0339,2025-08-26,Organic,delivered
+O01404,C0035,2025-07-16,Email,delivered
+O01405,C0012,2025-02-20,Paid search,cancelled
+O01406,C0438,2025-08-23,Email,delivered
+O01407,C0226,2025-08-13,Email,delivered
+O01408,C0344,2025-12-12,Paid search,delivered
+O01409,C0495,2025-02-09,Organic,delivered
+O01410,C0550,2025-10-21,Email,delivered
+O01411,C0033,2025-10-11,Email,delivered
+O01412,C0271,2025-08-26,Organic,delivered
+O01413,C0003,2025-11-11,Organic,delivered
+O01414,C0156,2025-12-27,Social,delivered
+O01415,C0016,2025-04-02,Organic,delivered
+O01416,C0038,2025-05-04,Organic,delivered
+O01417,C0389,2025-08-08,Paid search,delivered
+O01418,C0393,2025-10-21,Organic,delivered
+O01419,C0281,2025-08-04,Paid search,delivered
+O01420,C0061,2025-09-25,Organic,delivered
+O01421,C0089,2025-11-19,Email,delivered
+O01422,C0060,2025-10-17,Email,delivered
+O01423,C0051,2025-10-20,Paid search,delivered
+O01424,C0008,2025-11-02,Email,delivered
+O01425,C0472,2025-04-21,Social,delivered
+O01426,C0050,2025-03-04,Organic,delivered
+O01427,C0075,2025-10-08,Social,delivered
+O01428,C0030,2025-12-23,Organic,delivered
+O01429,C0206,2025-01-10,Organic,delivered
+O01430,C0292,2025-08-17,Paid search,delivered
+O01431,C0141,2025-11-12,Organic,delivered
+O01432,C0408,2025-09-17,Email,delivered
+O01433,C0463,2025-06-18,Email,cancelled
+O01434,C0239,2025-04-19,Social,cancelled
+O01435,C0058,2025-11-26,Email,delivered
+O01436,C0064,2025-03-21,Social,delivered
+O01437,C0029,2025-12-08,Paid search,delivered
+O01438,C0088,2025-11-25,Email,delivered
+O01439,C0104,2025-09-25,Paid search,delivered
+O01440,C0259,2025-03-26,Social,delivered
+O01441,C0007,2025-09-06,Organic,delivered
+O01442,C0309,2025-04-24,Email,delivered
+O01443,C0519,2025-01-27,Email,delivered
+O01444,C0015,2025-12-21,Paid search,delivered
+O01445,C0466,2025-03-07,Paid search,returned
+O01446,C0337,2025-12-19,Paid search,delivered
+O01447,C0415,2025-03-20,Social,delivered
+O01448,C0559,2025-11-23,Paid search,delivered
+O01449,C0067,2025-02-04,Organic,returned
+O01450,C0330,2025-11-22,Paid search,delivered
+O01451,C0076,2025-05-07,Organic,delivered
+O01452,C0031,2025-11-10,Organic,delivered
+O01453,C0027,2025-05-05,Organic,delivered
+O01454,C0396,2025-11-01,Organic,delivered
+O01455,C0049,2025-07-05,Paid search,delivered
+O01456,C0005,2025-03-28,Social,returned
+O01457,C0201,2025-01-20,Paid search,delivered
+O01458,C0454,2025-04-05,Paid search,returned
+O01459,C0214,2025-11-22,Organic,delivered
+O01460,C0488,2025-07-14,Organic,delivered
+O01461,C0031,2025-05-27,Organic,delivered
+O01462,C0358,2025-01-02,Email,delivered
+O01463,C0018,2025-07-08,Paid search,delivered
+O01464,C0403,2025-01-04,Email,delivered
+O01465,C0082,2025-06-02,Organic,delivered
+O01466,C0569,2025-11-12,Social,delivered
+O01467,C0077,2025-01-19,Organic,delivered
+O01468,C0035,2025-09-11,Email,returned
+O01469,C0431,2025-12-09,Social,delivered
+O01470,C0447,2025-11-23,Organic,delivered
+O01471,C0005,2025-05-19,Organic,delivered
+O01472,C0337,2025-04-01,Organic,delivered
+O01473,C0001,2025-10-19,Organic,cancelled
+O01474,C0170,2025-08-26,Paid search,delivered
+O01475,C0270,2025-07-15,Email,delivered
+O01476,C0085,2025-05-02,Paid search,delivered
+O01477,C0079,2025-02-20,Organic,delivered
+O01478,C0010,2025-02-14,Organic,delivered
+O01479,C0541,2025-12-18,Email,delivered
+O01480,C0015,2025-12-04,Paid search,delivered
+O01481,C0054,2025-12-09,Organic,delivered
+O01482,C0530,2025-08-15,Paid search,delivered
+O01483,C0421,2025-08-03,Organic,delivered
+O01484,C0259,2025-08-16,Paid search,delivered
+O01485,C0527,2025-12-22,Paid search,delivered
+O01486,C0016,2025-04-26,Paid search,delivered
+O01487,C0258,2025-03-10,Email,delivered
+O01488,C0388,2025-12-19,Email,delivered
+O01489,C0222,2025-12-23,Email,delivered
+O01490,C0003,2025-03-15,Paid search,delivered
+O01491,C0120,2025-10-09,Organic,delivered
+O01492,C0585,2025-12-05,Paid search,delivered
+O01493,C0063,2025-12-08,Email,delivered
+O01494,C0057,2025-01-09,Paid search,delivered
+O01495,C0006,2025-07-21,Organic,delivered
+O01496,C0085,2025-08-24,Social,delivered
+O01497,C0081,2025-01-13,Paid search,delivered
+O01498,C0432,2025-02-08,Paid search,returned
+O01499,C0070,2025-10-19,Paid search,delivered
+O01500,C0195,2025-01-04,Email,delivered
+O01501,C0484,2025-04-13,Organic,delivered
+O01502,C0037,2025-09-13,Organic,delivered
+O01503,C0005,2025-08-02,Paid search,delivered
+O01504,C0135,2025-12-28,Paid search,delivered
+O01505,C0056,2025-11-10,Email,delivered
+O01506,C0357,2025-11-10,Social,delivered
+O01507,C0373,2025-06-13,Email,delivered
+O01508,C0189,2025-10-20,Organic,delivered
+O01509,C0080,2025-12-26,Social,delivered
+O01510,C0295,2025-02-09,Organic,delivered
+O01511,C0023,2025-10-18,Email,delivered
+O01512,C0072,2025-03-23,Organic,delivered
+O01513,C0061,2025-05-14,Paid search,delivered
+O01514,C0031,2025-04-17,Organic,delivered
+O01515,C0260,2025-04-02,Paid search,delivered
+O01516,C0475,2025-11-28,Organic,returned
+O01517,C0324,2025-08-25,Social,delivered
+O01518,C0263,2025-05-21,Organic,delivered
+O01519,C0062,2025-11-16,Organic,delivered
+O01520,C0057,2025-12-08,Paid search,delivered
+O01521,C0451,2025-05-02,Email,delivered
+O01522,C0075,2025-12-27,Social,delivered
+O01523,C0109,2025-07-27,Email,returned
+O01524,C0344,2025-10-21,Email,delivered
+O01525,C0245,2025-12-17,Email,delivered
+O01526,C0289,2025-05-19,Email,delivered
+O01527,C0031,2025-06-09,Organic,delivered
+O01528,C0585,2025-03-04,Paid search,delivered
+O01529,C0461,2025-12-17,Social,delivered
+O01530,C0003,2025-03-01,Email,delivered
+O01531,C0256,2025-11-20,Paid search,delivered
+O01532,C0011,2025-11-10,Email,returned
+O01533,C0343,2025-02-17,Email,delivered
+O01534,C0321,2025-01-07,Social,delivered
+O01535,C0426,2025-09-15,Organic,returned
+O01536,C0013,2025-07-03,Social,delivered
+O01537,C0587,2025-12-08,Organic,delivered
+O01538,C0200,2025-09-25,Organic,delivered
+O01539,C0132,2025-09-10,Paid search,delivered
+O01540,C0097,2025-07-18,Paid search,delivered
+O01541,C0064,2025-09-06,Email,delivered
+O01542,C0099,2025-07-21,Paid search,returned
+O01543,C0065,2025-01-19,Organic,delivered
+O01544,C0336,2025-10-22,Paid search,delivered
+O01545,C0026,2025-11-18,Organic,delivered
+O01546,C0059,2025-03-16,Paid search,delivered
+O01547,C0077,2025-11-11,Paid search,delivered
+O01548,C0070,2025-01-21,Social,returned
+O01549,C0458,2025-03-28,Social,delivered
+O01550,C0274,2025-08-06,Email,delivered
+O01551,C0362,2025-09-26,Organic,delivered
+O01552,C0020,2025-07-26,Email,delivered
+O01553,C0456,2025-06-27,Paid search,delivered
+O01554,C0265,2025-07-11,Organic,delivered
+O01555,C0082,2025-11-17,Paid search,delivered
+O01556,C0091,2025-10-24,Organic,delivered
+O01557,C0071,2025-09-20,Email,delivered
+O01558,C0456,2025-08-13,Social,delivered
+O01559,C0089,2025-05-18,Paid search,cancelled
+O01560,C0053,2025-12-28,Social,delivered
+O01561,C0069,2025-05-02,Paid search,delivered
+O01562,C0174,2025-11-01,Paid search,delivered
+O01563,C0018,2025-09-08,Organic,delivered
+O01564,C0032,2025-01-23,Paid search,delivered
+O01565,C0488,2025-03-01,Paid search,delivered
+O01566,C0306,2025-05-28,Organic,returned
+O01567,C0082,2025-03-05,Paid search,returned
+O01568,C0582,2025-02-01,Organic,delivered
+O01569,C0021,2025-10-19,Organic,delivered
+O01570,C0050,2025-10-25,Organic,delivered
+O01571,C0061,2025-12-12,Email,returned
+O01572,C0003,2025-08-19,Organic,delivered
+O01573,C0280,2025-08-09,Organic,returned
+O01574,C0455,2025-09-12,Organic,delivered
+O01575,C0585,2025-02-07,Organic,delivered
+O01576,C0210,2025-03-02,Paid search,delivered
+O01577,C0009,2025-07-22,Organic,delivered
+O01578,C0059,2025-05-22,Social,returned
+O01579,C0144,2025-07-28,Organic,delivered
+O01580,C0388,2025-10-06,Social,delivered
+O01581,C0280,2025-12-01,Organic,returned
+O01582,C0032,2025-11-01,Paid search,cancelled
+O01583,C0375,2025-06-17,Paid search,returned
+O01584,C0059,2025-04-12,Paid search,delivered
+O01585,C0060,2025-01-25,Organic,delivered
+O01586,C0059,2025-11-09,Social,delivered
+O01587,C0052,2025-09-20,Organic,returned
+O01588,C0157,2025-02-12,Email,delivered
+O01589,C0281,2025-05-23,Organic,delivered
+O01590,C0494,2025-10-02,Email,delivered
+O01591,C0011,2025-01-27,Email,delivered
+O01592,C0016,2025-03-20,Email,delivered
+O01593,C0119,2025-04-24,Organic,delivered
+O01594,C0074,2025-04-04,Organic,delivered
+O01595,C0081,2025-12-13,Email,returned
+O01596,C0069,2025-09-26,Organic,delivered
+O01597,C0579,2025-12-13,Email,delivered
+O01598,C0066,2025-05-20,Paid search,delivered
+O01599,C0045,2025-02-05,Email,delivered
+O01600,C0111,2025-12-02,Paid search,cancelled
+O01601,C0396,2025-04-11,Social,delivered
+O01602,C0427,2025-02-23,Email,delivered
+O01603,C0315,2025-11-25,Social,delivered
+O01604,C0388,2025-10-24,Organic,delivered
+O01605,C0366,2025-12-20,Paid search,delivered
+O01606,C0113,2025-05-01,Social,delivered
+O01607,C0053,2025-09-13,Paid search,delivered
+O01608,C0010,2025-12-10,Paid search,delivered
+O01609,C0038,2025-11-10,Email,delivered
+O01610,C0499,2025-12-22,Organic,delivered
+O01611,C0079,2025-06-18,Social,delivered
+O01612,C0076,2025-05-06,Social,delivered
+O01613,C0034,2025-01-16,Social,delivered
+O01614,C0076,2025-07-19,Email,delivered
+O01615,C0522,2025-10-02,Paid search,delivered
+O01616,C0057,2025-12-12,Paid search,cancelled
+O01617,C0055,2025-11-03,Organic,delivered
+O01618,C0209,2025-06-26,Organic,cancelled
+O01619,C0155,2025-09-06,Paid search,delivered
+O01620,C0243,2025-06-28,Organic,delivered
+O01621,C0034,2025-04-20,Paid search,delivered
+O01622,C0424,2025-11-26,Email,delivered
+O01623,C0017,2025-01-13,Organic,cancelled
+O01624,C0089,2025-12-25,Organic,delivered
+O01625,C0228,2025-06-12,Social,cancelled
+O01626,C0562,2025-03-03,Paid search,delivered
+O01627,C0023,2025-07-09,Organic,cancelled
+O01628,C0089,2025-03-23,Paid search,delivered
+O01629,C0027,2025-11-19,Email,cancelled
+O01630,C0037,2025-09-11,Paid search,returned
+O01631,C0448,2025-11-03,Organic,delivered
+O01632,C0056,2025-01-22,Email,returned
+O01633,C0248,2025-08-10,Organic,delivered
+O01634,C0013,2025-05-19,Organic,delivered
+O01635,C0355,2025-02-19,Email,delivered
+O01636,C0585,2025-11-19,Paid search,delivered
+O01637,C0250,2025-07-06,Organic,delivered
+O01638,C0076,2025-04-23,Social,delivered
+O01639,C0488,2025-03-16,Organic,delivered
+O01640,C0433,2025-07-08,Social,returned
+O01641,C0552,2025-05-01,Email,delivered
+O01642,C0062,2025-11-25,Email,delivered
+O01643,C0009,2025-08-23,Organic,cancelled
+O01644,C0480,2025-09-10,Organic,delivered
+O01645,C0006,2025-04-11,Paid search,delivered
+O01646,C0078,2025-09-15,Organic,delivered
+O01647,C0002,2025-09-24,Organic,delivered
+O01648,C0512,2025-05-10,Paid search,delivered
+O01649,C0342,2025-05-11,Email,returned
+O01650,C0193,2025-02-10,Paid search,returned
+O01651,C0475,2025-05-19,Email,delivered
+O01652,C0310,2025-07-20,Email,delivered
+O01653,C0566,2025-04-04,Social,delivered
+O01654,C0084,2025-08-02,Organic,delivered
+O01655,C0391,2025-06-16,Organic,delivered
+O01656,C0067,2025-07-10,Organic,delivered
+O01657,C0019,2025-11-12,Email,delivered
+O01658,C0537,2025-12-18,Social,delivered
+O01659,C0039,2025-05-13,Organic,returned
+O01660,C0006,2025-10-05,Organic,delivered
+O01661,C0247,2025-01-08,Email,delivered
+O01662,C0055,2025-12-21,Email,delivered
+O01663,C0033,2025-02-09,Organic,delivered
+O01664,C0029,2025-11-02,Email,delivered
+O01665,C0342,2025-05-28,Email,delivered
+O01666,C0058,2025-03-05,Paid search,delivered
+O01667,C0078,2025-04-15,Email,delivered
+O01668,C0010,2025-04-24,Organic,delivered
+O01669,C0407,2025-09-09,Organic,delivered
+O01670,C0161,2025-07-26,Email,cancelled
+O01671,C0073,2025-11-24,Email,delivered
+O01672,C0019,2025-11-14,Email,delivered
+O01673,C0089,2025-10-11,Social,delivered
+O01674,C0069,2025-10-13,Paid search,delivered
+O01675,C0579,2025-03-03,Organic,delivered
+O01676,C0513,2025-09-22,Social,delivered
+O01677,C0063,2025-09-23,Paid search,delivered
+O01678,C0064,2025-03-01,Organic,delivered
+O01679,C0067,2025-04-21,Social,returned
+O01680,C0004,2025-07-27,Paid search,delivered
+O01681,C0067,2025-06-22,Paid search,delivered
+O01682,C0217,2025-03-14,Organic,returned
+O01683,C0508,2025-11-06,Paid search,delivered
+O01684,C0005,2025-11-05,Organic,delivered
+O01685,C0072,2025-12-25,Organic,delivered
+O01686,C0252,2025-07-15,Email,delivered
+O01687,C0076,2025-12-02,Organic,delivered
+O01688,C0349,2025-04-18,Organic,delivered
+O01689,C0031,2025-03-27,Organic,delivered
+O01690,C0053,2025-08-13,Organic,delivered
+O01691,C0338,2025-06-10,Email,delivered
+O01692,C0078,2025-12-16,Paid search,delivered
+O01693,C0544,2025-10-10,Paid search,delivered
+O01694,C0400,2025-03-14,Organic,delivered
+O01695,C0038,2025-09-18,Social,delivered
+O01696,C0417,2025-09-05,Paid search,delivered
+O01697,C0333,2025-01-23,Email,delivered
+O01698,C0033,2025-03-13,Organic,delivered
+O01699,C0296,2025-12-18,Social,delivered
+O01700,C0356,2025-10-19,Organic,delivered
+O01701,C0593,2025-03-18,Organic,returned
+O01702,C0089,2025-12-03,Paid search,returned
+O01703,C0303,2025-04-08,Organic,delivered
+O01704,C0539,2025-12-24,Organic,cancelled
+O01705,C0217,2025-09-01,Social,delivered
+O01706,C0074,2025-02-19,Email,delivered
+O01707,C0287,2025-11-05,Paid search,delivered
+O01708,C0486,2025-08-19,Organic,delivered
+O01709,C0189,2025-03-28,Paid search,delivered
+O01710,C0353,2025-12-03,Paid search,delivered
+O01711,C0088,2025-05-22,Paid search,delivered
+O01712,C0431,2025-07-10,Paid search,delivered
+O01713,C0052,2025-02-13,Paid search,delivered
+O01714,C0070,2025-10-26,Organic,cancelled
+O01715,C0071,2025-07-13,Paid search,returned
+O01716,C0019,2025-04-17,Organic,delivered
+O01717,C0042,2025-11-18,Paid search,delivered
+O01718,C0001,2025-12-02,Organic,delivered
+O01719,C0063,2025-11-20,Organic,returned
+O01720,C0084,2025-01-25,Email,delivered
+O01721,C0020,2025-11-01,Email,delivered
+O01722,C0249,2025-06-09,Social,delivered
+O01723,C0084,2025-09-28,Organic,delivered
+O01724,C0230,2025-04-21,Organic,delivered
+O01725,C0375,2025-09-22,Paid search,delivered
+O01726,C0055,2025-04-08,Paid search,delivered
+O01727,C0455,2025-03-27,Paid search,delivered
+O01728,C0526,2025-12-03,Email,delivered
+O01729,C0259,2025-09-23,Paid search,delivered
+O01730,C0058,2025-07-17,Organic,delivered
+O01731,C0054,2025-10-12,Organic,delivered
+O01732,C0025,2025-04-25,Paid search,delivered
+O01733,C0579,2025-05-26,Paid search,delivered
+O01734,C0013,2025-02-26,Organic,delivered
+O01735,C0012,2025-03-18,Email,delivered
+O01736,C0277,2025-03-15,Paid search,delivered
+O01737,C0009,2025-11-17,Paid search,delivered
+O01738,C0016,2025-11-16,Paid search,delivered
+O01739,C0076,2025-06-26,Social,delivered
+O01740,C0003,2025-08-19,Social,delivered
+O01741,C0030,2025-05-10,Organic,delivered
+O01742,C0416,2025-09-12,Social,delivered
+O01743,C0078,2025-03-03,Paid search,delivered
+O01744,C0080,2025-10-28,Organic,delivered
+O01745,C0402,2025-04-11,Email,delivered
+O01746,C0019,2025-12-17,Organic,delivered
+O01747,C0365,2025-11-04,Paid search,delivered
+O01748,C0019,2025-11-27,Paid search,delivered
+O01749,C0415,2025-09-08,Paid search,delivered
+O01750,C0253,2025-01-27,Organic,delivered
+O01751,C0002,2025-11-03,Social,delivered
+O01752,C0112,2025-08-27,Organic,delivered
+O01753,C0081,2025-05-23,Paid search,returned
+O01754,C0043,2025-09-19,Organic,delivered
+O01755,C0434,2025-12-25,Paid search,delivered
+O01756,C0044,2025-02-10,Social,delivered
+O01757,C0233,2025-09-25,Paid search,delivered
+O01758,C0408,2025-04-03,Email,delivered
+O01759,C0047,2025-05-27,Social,cancelled
+O01760,C0002,2025-08-07,Organic,delivered
+O01761,C0080,2025-04-09,Paid search,delivered
+O01762,C0454,2025-04-25,Paid search,delivered
+O01763,C0423,2025-11-08,Email,delivered
+O01764,C0019,2025-12-26,Paid search,delivered
+O01765,C0171,2025-05-07,Email,returned
+O01766,C0071,2025-11-07,Email,delivered
+O01767,C0568,2025-10-14,Organic,delivered
+O01768,C0238,2025-12-03,Organic,delivered
+O01769,C0274,2025-10-16,Email,delivered
+O01770,C0301,2025-01-16,Organic,cancelled
+O01771,C0072,2025-04-19,Organic,delivered
+O01772,C0103,2025-03-13,Organic,delivered
+O01773,C0010,2025-10-06,Social,delivered
+O01774,C0308,2025-12-14,Organic,delivered
+O01775,C0055,2025-07-20,Organic,delivered
+O01776,C0081,2025-07-20,Organic,delivered
+O01777,C0238,2025-08-03,Paid search,delivered
+O01778,C0072,2025-11-24,Organic,delivered
+O01779,C0417,2025-01-05,Email,delivered
+O01780,C0553,2025-11-05,Social,delivered
+O01781,C0478,2025-11-16,Paid search,delivered
+O01782,C0082,2025-07-21,Email,delivered
+O01783,C0164,2025-11-12,Organic,delivered
+O01784,C0161,2025-12-18,Email,delivered
+O01785,C0113,2025-11-26,Paid search,delivered
+O01786,C0504,2025-07-02,Paid search,delivered
+O01787,C0151,2025-12-04,Paid search,delivered
+O01788,C0357,2025-08-27,Social,delivered
+O01789,C0077,2025-08-17,Paid search,cancelled
+O01790,C0002,2025-03-28,Organic,delivered
+O01791,C0350,2025-01-07,Organic,delivered
+O01792,C0001,2025-09-20,Paid search,delivered
+O01793,C0027,2025-11-21,Organic,delivered
+O01794,C0157,2025-08-25,Paid search,delivered
+O01795,C0549,2025-05-27,Social,delivered
+O01796,C0091,2025-11-19,Email,delivered
+O01797,C0100,2025-07-04,Organic,delivered
+O01798,C0572,2025-11-05,Organic,delivered
+O01799,C0044,2025-09-20,Paid search,delivered
+O01800,C0117,2025-03-25,Organic,delivered
+O01801,C0088,2025-01-12,Organic,delivered
+O01802,C0073,2025-06-07,Organic,returned
+O01803,C0593,2025-03-04,Paid search,delivered
+O01804,C0061,2025-10-11,Organic,delivered
+O01805,C0081,2025-04-05,Organic,delivered
+O01806,C0016,2025-07-12,Organic,returned
+O01807,C0046,2025-12-25,Paid search,delivered
+O01808,C0059,2025-02-03,Organic,delivered
+O01809,C0015,2025-06-14,Social,delivered
+O01810,C0252,2025-03-15,Organic,delivered
+O01811,C0529,2025-06-12,Email,cancelled
+O01812,C0083,2025-11-10,Email,delivered
+O01813,C0144,2025-08-17,Social,cancelled
+O01814,C0313,2025-05-10,Email,delivered
+O01815,C0029,2025-11-12,Organic,delivered
+O01816,C0016,2025-05-27,Organic,delivered
+O01817,C0054,2025-10-08,Organic,delivered
+O01818,C0167,2025-08-09,Paid search,delivered
+O01819,C0018,2025-11-27,Organic,delivered
+O01820,C0192,2025-06-10,Social,delivered
+O01821,C0036,2025-01-23,Paid search,delivered
+O01822,C0404,2025-05-16,Organic,delivered
+O01823,C0346,2025-11-21,Social,delivered
+O01824,C0064,2025-08-28,Organic,delivered
+O01825,C0004,2025-03-04,Social,delivered
+O01826,C0082,2025-01-08,Social,delivered
+O01827,C0028,2025-08-27,Social,delivered
+O01828,C0138,2025-07-14,Organic,returned
+O01829,C0374,2025-10-12,Paid search,cancelled
+O01830,C0357,2025-05-26,Organic,delivered
+O01831,C0253,2025-12-20,Paid search,delivered
+O01832,C0275,2025-02-20,Organic,delivered
+O01833,C0068,2025-05-05,Organic,returned
+O01834,C0356,2025-11-17,Social,delivered
+O01835,C0053,2025-04-01,Organic,delivered
+O01836,C0128,2025-11-23,Paid search,delivered
+O01837,C0058,2025-02-01,Email,returned
+O01838,C0412,2025-03-17,Paid search,delivered
+O01839,C0041,2025-11-05,Paid search,delivered
+O01840,C0081,2025-10-20,Organic,delivered
+O01841,C0050,2025-12-25,Email,delivered
+O01842,C0088,2025-04-27,Organic,delivered
+O01843,C0248,2025-11-16,Organic,delivered
+O01844,C0413,2025-12-10,Email,delivered
+O01845,C0059,2025-03-06,Email,delivered
+O01846,C0024,2025-07-09,Paid search,returned
+O01847,C0566,2025-04-18,Paid search,delivered
+O01848,C0428,2025-07-17,Paid search,delivered
+O01849,C0279,2025-04-02,Email,delivered
+O01850,C0361,2025-12-20,Paid search,delivered
+O01851,C0325,2025-03-21,Paid search,delivered
+O01852,C0456,2025-02-23,Organic,delivered
+O01853,C0080,2025-11-05,Organic,delivered
+O01854,C0082,2025-11-27,Paid search,returned
+O01855,C0052,2025-03-25,Paid search,delivered
+O01856,C0066,2025-09-02,Social,delivered
+O01857,C0263,2025-12-06,Organic,delivered
+O01858,C0004,2025-07-25,Organic,cancelled
+O01859,C0002,2025-12-22,Organic,delivered
+O01860,C0157,2025-12-13,Email,delivered
+O01861,C0001,2025-12-18,Organic,delivered
+O01862,C0020,2025-12-11,Paid search,delivered
+O01863,C0455,2025-08-18,Organic,delivered
+O01864,C0229,2025-07-13,Email,delivered
+O01865,C0205,2025-09-09,Paid search,delivered
+O01866,C0342,2025-08-12,Email,delivered
+O01867,C0437,2025-09-27,Paid search,delivered
+O01868,C0044,2025-03-07,Organic,cancelled
+O01869,C0058,2025-12-26,Email,delivered
+O01870,C0071,2025-01-28,Paid search,delivered
+O01871,C0069,2025-05-08,Organic,delivered
+O01872,C0041,2025-11-21,Organic,cancelled
+O01873,C0059,2025-01-25,Paid search,delivered
+O01874,C0012,2025-06-06,Organic,delivered
+O01875,C0289,2025-06-03,Organic,delivered
+O01876,C0045,2025-08-13,Organic,returned
+O01877,C0329,2025-09-22,Paid search,delivered
+O01878,C0306,2025-02-07,Organic,delivered
+O01879,C0514,2025-11-16,Paid search,delivered
+O01880,C0294,2025-08-08,Organic,delivered
+O01881,C0053,2025-11-01,Paid search,delivered
+O01882,C0346,2025-12-08,Paid search,cancelled
+O01883,C0082,2025-01-11,Paid search,delivered
+O01884,C0063,2025-08-26,Paid search,delivered
+O01885,C0089,2025-03-24,Paid search,delivered
+O01886,C0376,2025-11-03,Paid search,delivered
+O01887,C0386,2025-03-24,Social,delivered
+O01888,C0016,2025-03-01,Social,delivered
+O01889,C0378,2025-03-01,Paid search,delivered
+O01890,C0515,2025-06-09,Social,delivered
+O01891,C0050,2025-02-27,Organic,delivered
+O01892,C0024,2025-08-06,Organic,delivered
+O01893,C0564,2025-10-14,Social,delivered
+O01894,C0083,2025-11-02,Paid search,delivered
+O01895,C0057,2025-01-19,Paid search,delivered
+O01896,C0020,2025-11-22,Social,returned
+O01897,C0069,2025-04-04,Organic,delivered
+O01898,C0100,2025-08-13,Paid search,delivered
+O01899,C0083,2025-07-03,Email,delivered
+O01900,C0008,2025-05-06,Organic,delivered
+O01901,C0048,2025-08-08,Paid search,delivered
+O01902,C0029,2025-11-01,Email,delivered
+O01903,C0008,2025-07-19,Email,delivered
+O01904,C0469,2025-05-17,Paid search,delivered
+O01905,C0388,2025-09-27,Paid search,delivered
+O01906,C0039,2025-11-10,Paid search,returned
+O01907,C0341,2025-06-18,Email,cancelled
+O01908,C0471,2025-07-22,Email,delivered
+O01909,C0080,2025-12-05,Social,delivered
+O01910,C0341,2025-04-14,Paid search,delivered
+O01911,C0043,2025-07-17,Organic,delivered
+O01912,C0126,2025-10-04,Organic,delivered
+O01913,C0003,2025-11-20,Paid search,delivered
+O01914,C0036,2025-06-25,Paid search,delivered
+O01915,C0441,2025-12-11,Email,delivered
+O01916,C0014,2025-11-25,Email,delivered
+O01917,C0071,2025-01-03,Organic,returned
+O01918,C0015,2025-08-20,Social,delivered
+O01919,C0511,2025-02-24,Organic,delivered
+O01920,C0259,2025-10-03,Organic,delivered
+O01921,C0005,2025-12-15,Paid search,delivered
+O01922,C0041,2025-12-09,Social,delivered
+O01923,C0263,2025-11-23,Email,delivered
+O01924,C0039,2025-10-22,Organic,returned
+O01925,C0497,2025-11-05,Paid search,delivered
+O01926,C0577,2025-01-20,Paid search,delivered
+O01927,C0223,2025-08-17,Email,delivered
+O01928,C0425,2025-11-10,Email,delivered
+O01929,C0016,2025-07-09,Paid search,delivered
+O01930,C0107,2025-01-02,Email,delivered
+O01931,C0035,2025-12-14,Social,delivered
+O01932,C0045,2025-10-21,Social,delivered
+O01933,C0072,2025-12-07,Organic,delivered
+O01934,C0191,2025-10-08,Paid search,delivered
+O01935,C0054,2025-11-23,Organic,delivered
+O01936,C0264,2025-11-09,Social,returned
+O01937,C0071,2025-05-23,Organic,delivered
+O01938,C0207,2025-07-25,Paid search,delivered
+O01939,C0482,2025-08-28,Social,delivered
+O01940,C0142,2025-03-14,Organic,delivered
+O01941,C0488,2025-07-07,Paid search,cancelled
+O01942,C0459,2025-09-16,Paid search,delivered
+O01943,C0031,2025-04-17,Paid search,delivered
+O01944,C0334,2025-04-17,Social,delivered
+O01945,C0053,2025-12-10,Paid search,delivered
+O01946,C0245,2025-05-21,Email,returned
+O01947,C0497,2025-08-05,Email,delivered
+O01948,C0052,2025-11-13,Email,delivered
+O01949,C0424,2025-03-11,Organic,returned
+O01950,C0588,2025-11-21,Paid search,delivered
+O01951,C0578,2025-07-11,Organic,delivered
+O01952,C0034,2025-12-22,Paid search,delivered
+O01953,C0013,2025-03-06,Social,delivered
+O01954,C0026,2025-03-02,Organic,delivered
+O01955,C0597,2025-11-28,Organic,delivered
+O01956,C0040,2025-11-25,Social,returned
+O01957,C0371,2025-10-28,Organic,delivered
+O01958,C0062,2025-06-09,Organic,delivered
+O01959,C0399,2025-02-24,Organic,delivered
+O01960,C0250,2025-06-20,Social,delivered
+O01961,C0056,2025-01-10,Organic,delivered
+O01962,C0090,2025-11-08,Social,delivered
+O01963,C0111,2025-01-15,Organic,delivered
+O01964,C0077,2025-06-23,Paid search,delivered
+O01965,C0443,2025-07-09,Paid search,delivered
+O01966,C0085,2025-12-18,Social,delivered
+O01967,C0432,2025-09-18,Email,delivered
+O01968,C0043,2025-03-13,Paid search,delivered
+O01969,C0181,2025-01-08,Paid search,delivered
+O01970,C0263,2025-01-18,Email,delivered
+O01971,C0316,2025-09-11,Paid search,delivered
+O01972,C0025,2025-04-01,Paid search,delivered
+O01973,C0038,2025-12-01,Paid search,delivered
+O01974,C0421,2025-06-14,Paid search,delivered
+O01975,C0453,2025-09-01,Paid search,delivered
+O01976,C0178,2025-09-23,Organic,delivered
+O01977,C0062,2025-11-15,Email,delivered
+O01978,C0008,2025-10-05,Organic,delivered
+O01979,C0305,2025-10-04,Paid search,delivered
+O01980,C0070,2025-05-11,Paid search,delivered
+O01981,C0042,2025-07-01,Email,delivered
+O01982,C0079,2025-07-10,Paid search,delivered
+O01983,C0012,2025-04-01,Organic,delivered
+O01984,C0146,2025-05-15,Organic,delivered
+O01985,C0536,2025-11-23,Social,delivered
+O01986,C0530,2025-02-21,Paid search,delivered
+O01987,C0076,2025-06-07,Paid search,delivered
+O01988,C0081,2025-10-18,Paid search,delivered
+O01989,C0120,2025-11-03,Organic,delivered
+O01990,C0026,2025-03-27,Email,delivered
+O01991,C0046,2025-11-10,Organic,delivered
+O01992,C0066,2025-12-15,Email,delivered
+O01993,C0040,2025-12-06,Paid search,delivered
+O01994,C0274,2025-09-09,Organic,delivered
+O01995,C0087,2025-04-10,Organic,delivered
+O01996,C0456,2025-05-11,Organic,delivered
+O01997,C0275,2025-05-19,Paid search,delivered
+O01998,C0079,2025-12-16,Paid search,delivered
+O01999,C0526,2025-12-13,Email,delivered
+O02000,C0212,2025-11-05,Organic,delivered
+O02001,C0083,2025-10-14,Email,delivered
+O02002,C0422,2025-01-14,Organic,delivered
+O02003,C0046,2025-06-26,Paid search,delivered
+O02004,C0284,2025-04-19,Paid search,delivered
+O02005,C0075,2025-12-17,Paid search,delivered
+O02006,C0037,2025-10-22,Email,delivered
+O02007,C0488,2025-12-09,Organic,delivered
+O02008,C0197,2025-12-11,Paid search,delivered
+O02009,C0284,2025-07-24,Social,delivered
+O02010,C0334,2025-06-15,Email,delivered
+O02011,C0058,2025-10-02,Paid search,delivered
+O02012,C0283,2025-12-07,Organic,delivered
+O02013,C0567,2025-08-28,Paid search,delivered
+O02014,C0068,2025-09-26,Social,delivered
+O02015,C0063,2025-02-11,Organic,delivered
+O02016,C0483,2025-11-12,Organic,cancelled
+O02017,C0079,2025-01-17,Paid search,delivered
+O02018,C0046,2025-04-10,Email,delivered
+O02019,C0003,2025-12-14,Email,delivered
+O02020,C0090,2025-04-07,Paid search,delivered
+O02021,C0252,2025-02-09,Organic,delivered
+O02022,C0433,2025-12-05,Organic,delivered
+O02023,C0056,2025-08-10,Organic,delivered
+O02024,C0222,2025-05-21,Organic,delivered
+O02025,C0241,2025-09-05,Paid search,delivered
+O02026,C0181,2025-02-17,Email,delivered
+O02027,C0017,2025-03-08,Email,delivered
+O02028,C0495,2025-05-17,Email,cancelled
+O02029,C0224,2025-09-26,Email,delivered
+O02030,C0127,2025-10-24,Email,delivered
+O02031,C0442,2025-08-04,Paid search,delivered
+O02032,C0016,2025-12-22,Organic,delivered
+O02033,C0127,2025-05-20,Email,returned
+O02034,C0040,2025-12-06,Email,delivered
+O02035,C0210,2025-11-18,Paid search,delivered
+O02036,C0036,2025-08-11,Paid search,cancelled
+O02037,C0136,2025-08-02,Organic,delivered
+O02038,C0072,2025-09-15,Paid search,delivered
+O02039,C0125,2025-05-03,Email,delivered
+O02040,C0086,2025-01-27,Social,delivered
+O02041,C0133,2025-11-19,Paid search,delivered
+O02042,C0245,2025-12-14,Paid search,delivered
+O02043,C0195,2025-05-17,Email,delivered
+O02044,C0018,2025-11-07,Organic,delivered
+O02045,C0260,2025-08-20,Email,delivered
+O02046,C0054,2025-02-03,Paid search,delivered
+O02047,C0069,2025-05-25,Social,delivered
+O02048,C0079,2025-11-20,Organic,returned
+O02049,C0052,2025-06-17,Paid search,delivered
+O02050,C0039,2025-09-16,Paid search,delivered
+O02051,C0069,2025-04-17,Paid search,delivered
+O02052,C0596,2025-05-06,Organic,delivered
+O02053,C0115,2025-10-09,Paid search,delivered
+O02054,C0083,2025-11-28,Organic,delivered
+O02055,C0518,2025-05-03,Paid search,delivered
+O02056,C0130,2025-02-19,Paid search,returned
+O02057,C0086,2025-09-23,Paid search,delivered
+O02058,C0006,2025-10-24,Email,delivered
+O02059,C0590,2025-09-13,Paid search,cancelled
+O02060,C0548,2025-05-26,Organic,delivered
+O02061,C0132,2025-07-14,Social,delivered
+O02062,C0071,2025-05-27,Organic,delivered
+O02063,C0070,2025-07-28,Organic,returned
+O02064,C0340,2025-06-16,Paid search,delivered
+O02065,C0222,2025-09-06,Paid search,delivered
+O02066,C0331,2025-01-06,Organic,delivered
+O02067,C0111,2025-08-06,Paid search,delivered
+O02068,C0067,2025-12-09,Email,delivered
+O02069,C0103,2025-11-15,Paid search,delivered
+O02070,C0050,2025-01-11,Paid search,delivered
+O02071,C0010,2025-11-17,Organic,delivered
+O02072,C0085,2025-04-14,Paid search,delivered
+O02073,C0350,2025-05-11,Email,delivered
+O02074,C0066,2025-11-03,Organic,delivered
+O02075,C0076,2025-01-17,Organic,delivered
+O02076,C0085,2025-01-14,Organic,delivered
+O02077,C0075,2025-12-13,Organic,delivered
+O02078,C0031,2025-03-22,Paid search,delivered
+O02079,C0347,2025-11-04,Organic,delivered
+O02080,C0067,2025-06-17,Social,delivered
+O02081,C0050,2025-11-22,Organic,delivered
+O02082,C0047,2025-07-07,Email,delivered
+O02083,C0049,2025-11-08,Paid search,delivered
+O02084,C0017,2025-06-25,Email,cancelled
+O02085,C0073,2025-09-14,Organic,delivered
+O02086,C0140,2025-04-07,Email,delivered
+O02087,C0044,2025-12-24,Organic,returned
+O02088,C0457,2025-03-15,Email,delivered
+O02089,C0051,2025-05-22,Paid search,delivered
+O02090,C0116,2025-02-24,Organic,delivered
+O02091,C0015,2025-10-17,Paid search,delivered
+O02092,C0083,2025-03-02,Organic,delivered
+O02093,C0500,2025-11-18,Organic,returned
+O02094,C0070,2025-12-10,Organic,delivered
+O02095,C0061,2025-11-10,Paid search,returned
+O02096,C0169,2025-09-26,Social,delivered
+O02097,C0020,2025-02-22,Paid search,delivered
+O02098,C0005,2025-07-22,Email,delivered
+O02099,C0030,2025-12-04,Email,delivered
+O02100,C0350,2025-11-02,Organic,delivered
+O02101,C0240,2025-07-16,Organic,delivered
+O02102,C0459,2025-11-03,Paid search,delivered
+O02103,C0158,2025-06-10,Email,delivered
+O02104,C0489,2025-12-06,Organic,delivered
+O02105,C0553,2025-05-04,Email,delivered
+O02106,C0017,2025-08-22,Email,returned
+O02107,C0448,2025-11-04,Social,delivered
+O02108,C0408,2025-10-28,Social,delivered
+O02109,C0433,2025-02-05,Paid search,delivered
+O02110,C0569,2025-12-07,Paid search,delivered
+O02111,C0088,2025-01-21,Paid search,delivered
+O02112,C0247,2025-01-20,Social,delivered
+O02113,C0031,2025-03-11,Paid search,delivered
+O02114,C0097,2025-10-09,Social,delivered
+O02115,C0006,2025-09-02,Organic,cancelled
+O02116,C0052,2025-06-17,Organic,cancelled
+O02117,C0237,2025-06-25,Paid search,delivered
+O02118,C0599,2025-02-28,Social,delivered
+O02119,C0046,2025-07-06,Email,delivered
+O02120,C0024,2025-11-16,Organic,delivered
+O02121,C0029,2025-11-22,Organic,delivered
+O02122,C0460,2025-05-11,Paid search,delivered
+O02123,C0393,2025-04-20,Organic,returned
+O02124,C0543,2025-01-28,Organic,delivered
+O02125,C0533,2025-02-23,Organic,delivered
+O02126,C0053,2025-12-08,Paid search,returned
+O02127,C0083,2025-10-10,Paid search,delivered
+O02128,C0004,2025-12-08,Organic,delivered
+O02129,C0044,2025-12-15,Social,delivered
+O02130,C0066,2025-12-26,Paid search,delivered
+O02131,C0183,2025-01-14,Paid search,delivered
+O02132,C0059,2025-11-13,Paid search,delivered
+O02133,C0074,2025-02-08,Paid search,delivered
+O02134,C0070,2025-10-28,Organic,delivered
+O02135,C0006,2025-08-25,Organic,delivered
+O02136,C0019,2025-11-20,Paid search,delivered
+O02137,C0400,2025-11-19,Organic,delivered
+O02138,C0202,2025-04-05,Organic,delivered
+O02139,C0025,2025-08-26,Paid search,delivered
+O02140,C0199,2025-12-23,Organic,delivered
+O02141,C0031,2025-09-25,Organic,delivered
+O02142,C0063,2025-12-27,Organic,delivered
+O02143,C0009,2025-02-19,Paid search,delivered
+O02144,C0001,2025-02-02,Paid search,delivered
+O02145,C0286,2025-10-09,Organic,delivered
+O02146,C0403,2025-09-20,Organic,delivered
+O02147,C0050,2025-08-03,Paid search,delivered
+O02148,C0543,2025-02-10,Organic,delivered
+O02149,C0061,2025-07-02,Paid search,delivered
+O02150,C0125,2025-10-16,Paid search,delivered
+O02151,C0005,2025-09-15,Paid search,delivered
+O02152,C0117,2025-10-04,Paid search,delivered
+O02153,C0039,2025-08-14,Paid search,delivered
+O02154,C0143,2025-09-18,Email,returned
+O02155,C0194,2025-11-13,Organic,delivered
+O02156,C0017,2025-08-02,Email,delivered
+O02157,C0033,2025-07-10,Paid search,delivered
+O02158,C0056,2025-03-09,Organic,cancelled
+O02159,C0075,2025-08-19,Organic,delivered
+O02160,C0158,2025-01-14,Social,delivered
+O02161,C0074,2025-10-28,Organic,delivered
+O02162,C0004,2025-11-23,Paid search,delivered
+O02163,C0077,2025-09-10,Email,delivered
+O02164,C0584,2025-08-18,Email,delivered
+O02165,C0066,2025-11-05,Email,delivered
+O02166,C0433,2025-07-22,Social,returned
+O02167,C0086,2025-10-13,Email,delivered
+O02168,C0579,2025-11-26,Paid search,delivered
+O02169,C0009,2025-01-27,Social,delivered
+O02170,C0121,2025-11-28,Organic,delivered
+O02171,C0030,2025-12-17,Social,delivered
+O02172,C0445,2025-04-01,Paid search,delivered
+O02173,C0046,2025-11-05,Organic,delivered
+O02174,C0377,2025-02-12,Paid search,delivered
+O02175,C0323,2025-10-24,Organic,delivered
+O02176,C0060,2025-07-17,Email,delivered
+O02177,C0055,2025-10-16,Organic,delivered
+O02178,C0067,2025-06-11,Paid search,delivered
+O02179,C0104,2025-06-20,Paid search,delivered
+O02180,C0020,2025-11-14,Paid search,delivered
+O02181,C0005,2025-10-28,Social,delivered
+O02182,C0058,2025-09-14,Email,delivered
+O02183,C0090,2025-09-25,Organic,delivered
+O02184,C0406,2025-10-18,Social,delivered
+O02185,C0496,2025-05-06,Paid search,delivered
+O02186,C0220,2025-04-03,Email,delivered
+O02187,C0567,2025-05-04,Organic,delivered
+O02188,C0437,2025-09-23,Social,delivered
+O02189,C0236,2025-10-16,Social,delivered
+O02190,C0086,2025-05-10,Social,cancelled
+O02191,C0017,2025-10-16,Paid search,returned
+O02192,C0062,2025-10-14,Paid search,delivered
+O02193,C0042,2025-06-28,Organic,delivered
+O02194,C0543,2025-11-10,Social,delivered
+O02195,C0046,2025-09-25,Social,delivered
+O02196,C0223,2025-05-26,Organic,returned
+O02197,C0506,2025-06-27,Paid search,delivered
+O02198,C0437,2025-04-09,Social,delivered
+O02199,C0083,2025-05-13,Organic,delivered
+O02200,C0050,2025-10-28,Email,delivered
+O02201,C0409,2025-08-05,Paid search,delivered
+O02202,C0007,2025-03-01,Organic,returned
+O02203,C0056,2025-06-01,Paid search,delivered
+O02204,C0036,2025-02-21,Organic,delivered
+O02205,C0492,2025-10-27,Email,delivered
+O02206,C0042,2025-11-19,Paid search,delivered
+O02207,C0012,2025-05-09,Paid search,returned
+O02208,C0074,2025-04-15,Organic,delivered
+O02209,C0025,2025-11-03,Organic,delivered
+O02210,C0466,2025-07-01,Social,delivered
+O02211,C0578,2025-09-10,Organic,delivered
+O02212,C0321,2025-04-14,Organic,delivered
+O02213,C0242,2025-06-05,Paid search,cancelled
+O02214,C0005,2025-10-12,Email,delivered
+O02215,C0149,2025-10-01,Email,delivered
+O02216,C0183,2025-03-21,Social,delivered
+O02217,C0204,2025-03-11,Paid search,delivered
+O02218,C0033,2025-01-27,Paid search,cancelled
+O02219,C0487,2025-11-04,Email,delivered
+O02220,C0062,2025-06-13,Organic,delivered
+O02221,C0467,2025-07-02,Organic,delivered
+O02222,C0062,2025-09-16,Paid search,delivered
+O02223,C0318,2025-01-04,Organic,delivered
+O02224,C0151,2025-08-06,Social,delivered
+O02225,C0216,2025-04-04,Organic,delivered
+O02226,C0375,2025-03-09,Social,delivered
+O02227,C0543,2025-06-16,Email,delivered
+O02228,C0351,2025-02-21,Organic,returned
+O02229,C0012,2025-04-24,Paid search,delivered
+O02230,C0089,2025-11-09,Email,delivered
+O02231,C0094,2025-06-10,Organic,delivered
+O02232,C0362,2025-05-06,Paid search,delivered
+O02233,C0276,2025-07-20,Email,delivered
+O02234,C0006,2025-01-24,Organic,delivered
+O02235,C0146,2025-09-07,Email,delivered
+O02236,C0012,2025-09-01,Organic,delivered
+O02237,C0053,2025-10-01,Organic,delivered
+O02238,C0452,2025-11-20,Email,delivered
+O02239,C0047,2025-12-27,Paid search,delivered
+O02240,C0064,2025-10-17,Organic,delivered
+O02241,C0415,2025-01-20,Paid search,delivered
+O02242,C0063,2025-05-27,Email,delivered
+O02243,C0044,2025-04-15,Organic,delivered
+O02244,C0341,2025-12-06,Organic,delivered
+O02245,C0075,2025-09-02,Organic,delivered
+O02246,C0548,2025-09-11,Paid search,delivered
+O02247,C0117,2025-09-19,Social,delivered
+O02248,C0371,2025-11-09,Email,delivered
+O02249,C0065,2025-03-05,Email,delivered
+O02250,C0044,2025-11-04,Organic,delivered
+O02251,C0058,2025-02-23,Paid search,delivered
+O02252,C0040,2025-12-12,Email,returned
+O02253,C0026,2025-05-14,Paid search,returned
+O02254,C0025,2025-02-14,Paid search,delivered
+O02255,C0377,2025-06-03,Paid search,delivered
+O02256,C0267,2025-03-17,Paid search,delivered
+O02257,C0035,2025-02-28,Organic,delivered
+O02258,C0097,2025-06-26,Paid search,delivered
+O02259,C0030,2025-06-02,Organic,delivered
+O02260,C0072,2025-11-09,Email,delivered
+O02261,C0119,2025-04-14,Organic,delivered
+O02262,C0338,2025-02-28,Organic,delivered
+O02263,C0113,2025-01-08,Paid search,delivered
+O02264,C0476,2025-10-03,Email,delivered
+O02265,C0231,2025-10-03,Email,cancelled
+O02266,C0009,2025-07-06,Organic,delivered
+O02267,C0080,2025-08-01,Paid search,delivered
+O02268,C0019,2025-11-11,Organic,delivered
+O02269,C0389,2025-02-09,Organic,delivered
+O02270,C0414,2025-06-13,Paid search,delivered
+O02271,C0338,2025-08-14,Email,delivered
+O02272,C0078,2025-11-25,Organic,delivered
+O02273,C0084,2025-11-17,Organic,cancelled
+O02274,C0251,2025-10-10,Social,delivered
+O02275,C0269,2025-07-04,Organic,delivered
+O02276,C0324,2025-06-18,Organic,returned
+O02277,C0068,2025-06-19,Paid search,delivered
+O02278,C0049,2025-04-01,Organic,delivered
+O02279,C0588,2025-11-23,Paid search,delivered
+O02280,C0504,2025-05-02,Organic,delivered
+O02281,C0034,2025-08-17,Organic,delivered
+O02282,C0429,2025-09-26,Paid search,delivered
+O02283,C0086,2025-11-04,Organic,delivered
+O02284,C0201,2025-11-18,Paid search,cancelled
+O02285,C0036,2025-04-14,Organic,delivered
+O02286,C0102,2025-09-07,Email,delivered
+O02287,C0415,2025-11-21,Paid search,delivered
+O02288,C0393,2025-03-04,Organic,delivered
+O02289,C0338,2025-03-12,Paid search,delivered
+O02290,C0347,2025-12-18,Organic,delivered
+O02291,C0367,2025-03-11,Social,delivered
+O02292,C0424,2025-12-09,Email,returned
+O02293,C0018,2025-04-09,Organic,delivered
+O02294,C0043,2025-11-20,Social,delivered
+O02295,C0054,2025-07-22,Social,delivered
+O02296,C0019,2025-11-23,Paid search,delivered
+O02297,C0012,2025-07-17,Email,delivered
+O02298,C0574,2025-04-10,Email,delivered
+O02299,C0273,2025-12-04,Paid search,delivered
+O02300,C0017,2025-05-01,Paid search,delivered
+O02301,C0048,2025-09-28,Paid search,delivered
+O02302,C0181,2025-06-23,Paid search,delivered
+O02303,C0019,2025-11-10,Paid search,delivered
+O02304,C0057,2025-03-27,Organic,delivered
+O02305,C0013,2025-12-25,Paid search,delivered
+O02306,C0216,2025-12-02,Organic,delivered
+O02307,C0041,2025-09-08,Paid search,delivered
+O02308,C0261,2025-11-20,Email,delivered
+O02309,C0034,2025-03-14,Email,delivered
+O02310,C0045,2025-06-20,Organic,delivered
+O02311,C0060,2025-07-07,Email,delivered
+O02312,C0190,2025-11-12,Email,returned
+O02313,C0083,2025-02-28,Organic,delivered
+O02314,C0169,2025-11-26,Organic,delivered
+O02315,C0159,2025-09-20,Paid search,delivered
+O02316,C0448,2025-11-28,Paid search,delivered
+O02317,C0389,2025-12-07,Organic,cancelled
+O02318,C0060,2025-05-21,Paid search,delivered
+O02319,C0192,2025-04-12,Paid search,delivered
+O02320,C0156,2025-07-23,Social,delivered
+O02321,C0386,2025-04-06,Paid search,delivered
+O02322,C0010,2025-11-11,Email,delivered
+O02323,C0013,2025-08-26,Paid search,delivered
+O02324,C0057,2025-10-07,Organic,delivered
+O02325,C0225,2025-01-10,Paid search,delivered
+O02326,C0335,2025-01-07,Organic,delivered
+O02327,C0335,2025-11-13,Email,delivered
+O02328,C0498,2025-10-24,Paid search,delivered
+O02329,C0031,2025-07-14,Paid search,delivered
+O02330,C0497,2025-01-20,Paid search,returned
+O02331,C0042,2025-10-21,Organic,delivered
+O02332,C0045,2025-11-26,Email,delivered
+O02333,C0557,2025-11-01,Paid search,delivered
+O02334,C0343,2025-02-11,Email,delivered
+O02335,C0150,2025-10-02,Organic,delivered
+O02336,C0309,2025-04-10,Organic,delivered
+O02337,C0351,2025-10-22,Email,delivered
+O02338,C0064,2025-12-22,Paid search,delivered
+O02339,C0267,2025-02-04,Organic,delivered
+O02340,C0081,2025-01-24,Paid search,delivered
+O02341,C0061,2025-03-13,Paid search,delivered
+O02342,C0290,2025-11-19,Paid search,returned
+O02343,C0109,2025-02-03,Paid search,delivered
+O02344,C0320,2025-02-15,Paid search,delivered
+O02345,C0468,2025-12-24,Organic,delivered
+O02346,C0458,2025-07-28,Paid search,delivered
+O02347,C0025,2025-10-01,Paid search,delivered
+O02348,C0086,2025-03-04,Paid search,delivered
+O02349,C0570,2025-12-06,Paid search,delivered
+O02350,C0061,2025-02-15,Paid search,delivered
+O02351,C0017,2025-11-19,Social,delivered
+O02352,C0031,2025-10-27,Social,delivered
+O02353,C0520,2025-11-24,Organic,delivered
+O02354,C0016,2025-05-13,Organic,delivered
+O02355,C0052,2025-01-10,Paid search,delivered
+O02356,C0055,2025-05-25,Paid search,delivered
+O02357,C0178,2025-09-06,Organic,delivered
+O02358,C0394,2025-09-24,Organic,cancelled
+O02359,C0024,2025-11-21,Paid search,delivered
+O02360,C0088,2025-02-26,Social,delivered
+O02361,C0152,2025-10-16,Social,delivered
+O02362,C0519,2025-11-21,Social,delivered
+O02363,C0026,2025-10-06,Organic,delivered
+O02364,C0026,2025-09-04,Organic,delivered
+O02365,C0225,2025-12-26,Email,delivered
+O02366,C0032,2025-11-27,Organic,delivered
+O02367,C0217,2025-04-03,Social,delivered
+O02368,C0058,2025-01-13,Email,delivered
+O02369,C0315,2025-12-15,Paid search,delivered
+O02370,C0462,2025-02-24,Paid search,delivered
+O02371,C0342,2025-12-03,Paid search,delivered
+O02372,C0167,2025-04-17,Social,delivered
+O02373,C0297,2025-05-19,Organic,delivered
+O02374,C0072,2025-12-24,Organic,delivered
+O02375,C0348,2025-04-17,Paid search,delivered
+O02376,C0112,2025-11-22,Organic,returned
+O02377,C0037,2025-03-12,Paid search,delivered
+O02378,C0502,2025-11-16,Paid search,delivered
+O02379,C0423,2025-05-11,Paid search,delivered
+O02380,C0268,2025-05-12,Email,delivered
+O02381,C0564,2025-08-15,Organic,delivered
+O02382,C0431,2025-05-04,Paid search,delivered
+O02383,C0368,2025-02-12,Paid search,returned
+O02384,C0062,2025-01-07,Paid search,delivered
+O02385,C0050,2025-03-17,Paid search,delivered
+O02386,C0147,2025-07-02,Paid search,delivered
+O02387,C0506,2025-11-07,Paid search,delivered
+O02388,C0048,2025-06-09,Social,delivered
+O02389,C0215,2025-11-13,Organic,delivered
+O02390,C0276,2025-01-20,Email,delivered
+O02391,C0064,2025-03-17,Organic,cancelled
+O02392,C0469,2025-08-11,Paid search,delivered
+O02393,C0084,2025-09-13,Paid search,delivered
+O02394,C0422,2025-01-16,Organic,delivered
+O02395,C0273,2025-03-22,Organic,delivered
+O02396,C0257,2025-03-25,Organic,delivered
+O02397,C0370,2025-07-13,Paid search,delivered
+O02398,C0037,2025-10-23,Email,delivered
+O02399,C0313,2025-03-05,Email,delivered
+O02400,C0174,2025-06-12,Paid search,cancelled
