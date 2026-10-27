@@ -1,28 +1,22 @@
-# E-commerce sales analysis
+# Sunday Supply / Sales journal
 
-A retail dashboard for sales trends, product margins and repeat purchasing. Python and SQLite prepare the data; Streamlit and Plotly display it.
+A retail dashboard for revenue, margins and repeat purchasing. Its quiet ledger layout keeps the numbers close to the orders behind them.
 
-![Sales dashboard](docs/dashboard.png)
+![Sales journal](docs/dashboard.png)
 
 ## Run
 
-Requires **Python 3.11–3.13**. From this folder:
+Python 3.11-3.13:
 
-```sh
-python run.py
-```
+    python run.py
 
-This creates `.venv`, installs the pinned dependencies and starts the app at **http://localhost:8501**. Internet is needed for the first install. On systems where Python is named `python3`, use that instead.
+Open http://localhost:8501. The launcher installs the pinned Python dependencies on first use. The React frontend is bundled, so Node.js is only needed for frontend development.
 
-```sh
-python run.py --test       # metric and dashboard tests
-python run.py --export     # CSV tables and summary.json in exports/
-```
+    python run.py --test
+    python run.py --export
 
-## Try it
+Try the country and category filters, open the customer cohorts, then follow an order in the order book. CSV exports follow the current selection.
 
-Filter to Germany and Email, compare product margins, then open the customer cohorts. Download the selected order lines to check the numbers yourself. A category filter measures spending on that category within each order.
+The sample contains 2,400 synthetic orders in 2025, generated with seed 42. Amounts are EUR; returns and cancellations produce no recognized revenue.
 
-The included data is **synthetic**: 2,400 orders in 2025, generated with seed 42. It is not client work or evidence of a business outcome. All amounts are EUR; returns and cancellations produce no revenue.
-
-[Setup, Docker and dependencies](docs/setup.md) · [Data and metric definitions](docs/model.md) · [Power BI import](docs/power-bi.md)
+[Setup and dependencies](docs/setup.md) / [Data and metrics](docs/model.md) / [Power BI import](docs/power-bi.md)

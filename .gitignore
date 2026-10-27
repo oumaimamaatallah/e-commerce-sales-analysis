@@ -7,3 +7,9 @@ __pycache__/
 exports/
 .env
 .DS_Store
+
+node_modules/
+web/.vite/
+
+web/test-results/
+web/playwright-report/
